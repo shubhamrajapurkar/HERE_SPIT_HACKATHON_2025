@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Route Preferences</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gradient-to-br from-blue-50 to-indigo-100 min-h-screen flex items-center justify-center">
+  <div class="bg-white shadow-xl rounded-xl p-8 w-full max-w-md">
+    <h2 class="text-2xl font-bold text-indigo-700 mb-6 text-center">Plan Your Route</h2>
+    <form id="routeForm" class="space-y-5">
+      <div>
+        <label class="block text-sm font-medium text-gray-700 mb-1" for="start">Start Location</label>
+        <input type="text" id="start" name="start" required
+          class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-400 transition" />
+      </div>
+      <div>
+        <label class="block text-sm font-medium text-gray-700 mb-1" for="destination">Destination</label>
+        <input type="text" id="destination" name="destination" required
+          class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-400 transition" />
+      </div>
+      <div>
+        <label class="block text-sm font-medium text-gray-700 mb-1" for="preference">Preference</label>
+        <select id="preference" name="preference" required
+          class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-400 transition">
+          <option value="less_toll">Less Toll</option>
+          <option value="less_traffic">Less Traffic</option>
+          <option value="shortest">Shortest Route</option>
+          <option value="more_restaurants">More Restaurants</option>
+          <option value="more_cultural">More Cultural Sites</option>
+        </select>
+      </div>
+      <div>
+        <label class="block text-sm font-medium text-gray-700 mb-1" for="mode">Mode of Transport</label>
+        <select id="mode" name="mode" required
+          class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-400 transition">
+          <option value="car">Car</option>
+          <option value="bus">Bus</option>
+          <option value="train">Train</option>
+        </select>
+      </div>
+      <div>
+        <label class="block text-sm font-medium text-gray-700 mb-1" for="startDate">Start Date</label>
+        <input type="date" id="startDate" name="startDate" required
+          class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-400 transition" />
+      </div>
+      <div>
+        <label class="block text-sm font-medium text-gray-700 mb-1" for="endDate">End Date</label>
+        <input type="date" id="endDate" name="endDate" required
+          class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-400 transition" />
+      </div>
+      <div>
+        <label class="block text-sm font-medium text-gray-700 mb-1" for="additional">Additional Info</label>
+        <input type="text" id="additional" name="additional" placeholder="Any other info"
+          class="w-full px-4 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-indigo-400 transition" />
+      </div>
+      <button type="submit"
+        class="w-full bg-indigo-600 hover:bg-indigo-700 text-white font-semibold py-2 rounded-lg shadow transition">
+        Go
+      </button>
+      <button
+        type="button"
+        id="checkWeatherBtn"
+        class="w-full mt-2 bg-blue-500 hover:bg-blue-600 text-white font-semibold py-2 rounded-lg shadow transition"
+      >
+        Check Weather
+      </button>
+    </form>
+    <div class="text-sm text-gray-600 mt-4">
+      <p>Need help exploring your destination? Use the <strong>Video Call with Guide</strong> feature after planning your route!</p>
+    </div>
+  </div>
+  <script>
+    // Restore form values from localStorage if present
+    window.addEventListener('DOMContentLoaded', function() {
+      const saved = JSON.parse(localStorage.getItem('routeFormFields') || '{}');
+      if (saved.start) document.getElementById('start').value = saved.start;
+      if (saved.destination) document.getElementById('destination').value = saved.destination;
+      if (saved.preference) document.getElementById('preference').value = saved.preference;
+      if (saved.additional) document.getElementById('additional').value = saved.additional;
+      if (saved.mode) document.getElementById('mode').value = saved.mode;
+      if (saved.startDate) document.getElementById('startDate').value = saved.startDate;
+      if (saved.endDate) document.getElementById('endDate').value = saved.endDate;
+    });
+
+    // Save form values to localStorage on input change
+    function saveFormFields() {
+      const fields = {
+        start: document.getElementById('start').value,
+        destination: document.getElementById('destination').value,
+        preference: document.getElementById('preference').value,
+        additional: document.getElementById('additional').value,
+        mode: document.getElementById('mode').value,
+        startDate: document.getElementById('startDate').value,
+        endDate: document.getElementById('endDate').value
+      };
+      localStorage.setItem('routeFormFields', JSON.stringify(fields));
+    }
+    document.querySelectorAll('#routeForm input, #routeForm select').forEach(el => {
+      el.addEventListener('change', saveFormFields);
+      el.addEventListener('input', saveFormFields);
+    });
+
+    document.getElementById('routeForm').addEventListener('submit', function(e) {
+      e.preventDefault();
+      const start = document.getElementById('start').value;
+      const destination = document.getElementById('destination').value;
+      const preference = document.getElementById('preference').value;
+      const additional = document.getElementById('additional').value;
+      const mode = document.getElementById('mode').value;
+      const startDate = document.getElementById('startDate').value;
+      const endDate = document.getElementById('endDate').value;
+      // Store preferences in localStorage
+      localStorage.setItem('routePreference', JSON.stringify({
+        preference,
+        additional,
+        mode,
+        startDate,
+        endDate
+      }));
+      // Optionally clear form fields storage on submit (uncomment if desired)
+      // localStorage.removeItem('routeFormFields');
+      // Redirect to mapbox.html with src and dest as query params
+      const params = new URLSearchParams({
+        src: start,
+        dest: destination
+      });
+      window.location.href = `mapbox.html?${params.toString()}`;
+    });
+
+    // Add Check Weather button logic
+    document.getElementById('checkWeatherBtn').addEventListener('click', function() {
+      const destination = document.getElementById('destination').value;
+      // Redirect to localhost:3000 and prefill location with destination
+      // Use query param for prefill
+      const url = `http://localhost:3000?location=${encodeURIComponent(destination)}`;
+      window.location.href = url; // Open in same tab
+    });
+  </script>
+</body>
+</html>
