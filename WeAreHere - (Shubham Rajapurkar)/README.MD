@@ -65,7 +65,7 @@ After running the full pipeline, the final output is a *shapefile (.shp)* contai
 
 ## 🎥 Presentation
 
-📎 *Project Presentation Link*: [Add your link here]  
+📎 *Project Presentation Link*: (https://www.canva.com/design/DAGoVetRqlA/zCKkmD7Vd4sQwZgn_xIy1g/edit)  
 (Google Slides / YouTube / PDF etc.)
 
 ---
