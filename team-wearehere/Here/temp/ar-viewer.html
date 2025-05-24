@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AR Viewer</title>
+  <script src="https://aframe.io/releases/1.2.0/aframe.min.js"></script>
+</head>
+<body>
+  <a-scene>
+    <a-assets>
+      <a-asset-item id="model" src=""></a-asset-item>
+    </a-assets>
+    <a-entity position="0 1.6 -3">
+      <a-gltf-model src="#model" scale="1 1 1"></a-gltf-model>
+    </a-entity>
+    <a-sky color="#ECECEC"></a-sky>
+  </a-scene>
+</body>
+</html>

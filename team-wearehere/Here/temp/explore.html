@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Explore Nearby Places</title>
+  <!-- Use a local Tailwind CSS file -->
+  <link href="tailwind.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 min-h-screen flex items-center justify-center">
+  <!-- Main Action Buttons -->
+  <div id="main-action-buttons" class="fixed bottom-8 left-1/2 transform -translate-x-1/2 z-40 flex gap-4">
+    <button id="plan-itinerary-btn" class="bg-indigo-600 hover:bg-indigo-700 text-white font-semibold py-2 px-4 rounded-lg shadow-lg">
+      Plan Itinerary
+    </button>
+    <button id="view-sketchfab-btn" class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded-lg shadow-lg">
+      View 3D Model
+    </button>
+    <button id="automated-booking-btn" class="bg-red-600 hover:bg-red-700 text-white font-semibold py-2 px-4 rounded-lg shadow-lg">
+      Automated Booking
+    </button>
+  </div>
+  <!-- Explore Modal -->
+  <div id="explore-modal" class="hidden fixed inset-0 bg-gray-800 bg-opacity-75 flex items-center justify-center z-50">
+    <div class="bg-white rounded-lg shadow-lg p-6 w-full max-w-lg">
+      <h2 class="text-xl font-bold text-indigo-700 mb-4">Explore Nearby Places</h2>
+      <form id="explore-form" class="space-y-4">
+        <fieldset>
+          <legend class="text-lg font-semibold text-gray-700 mb-2">Select Categories</legend>
+          <div class="grid grid-cols-2 gap-4">
+            <label class="flex items-center space-x-2">
+              <input type="checkbox" name="category" value="temple" class="form-checkbox text-indigo-600">
+              <span class="text-gray-700">Temples</span>
+            </label>
+            <label class="flex items-center space-x-2">
+              <input type="checkbox" name="category" value="cultural" class="form-checkbox text-indigo-600">
+              <span class="text-gray-700">Cultural Sites</span>
+            </label>
+            <label class="flex items-center space-x-2">
+              <input type="checkbox" name="category" value="cafe" class="form-checkbox text-indigo-600">
+              <span class="text-gray-700">Cafes</span>
+            </label>
+            <label class="flex items-center space-x-2">
+              <input type="checkbox" name="category" value="park" class="form-checkbox text-indigo-600">
+              <span class="text-gray-700">Parks</span>
+            </label>
+          </div>
+        </fieldset>
+        <button type="submit" class="w-full bg-indigo-600 hover:bg-indigo-700 text-white font-semibold py-2 rounded-lg shadow transition">
+          Apply Filters
+        </button>
+      </form>
+      <div id="places-list" class="mt-4 hidden"></div>
+      <button id="close-modal" class="mt-4 bg-red-600 hover:bg-red-700 text-white font-semibold py-2 px-4 rounded-lg">
+        Close
+      </button>
+    </div>
+  </div>
+  <script src="call.js"></script>
+  <script src="explore.js"></script>
+</body>
+</html>

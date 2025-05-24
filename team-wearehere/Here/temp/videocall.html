@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Call</title>
+    <!-- Add Tailwind CSS for styling -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Add Jitsi Meet API -->
+    <script src="https://meet.jit.si/external_api.js"></script>
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Inter', sans-serif;
+            background-color: #f9fafb; /* Tailwind gray-50 */
+        }
+        #video-container {
+            height: 80vh;
+            width: 100%;
+            background-color: #000; /* Black background for video */
+        }
+    </style>
+</head>
+<body class="flex flex-col h-screen">
+
+    <!-- Header -->
+    <header class="p-4 bg-blue-500 text-white flex justify-between items-center shadow-md">
+        <h1 class="text-lg font-semibold">Video Call</h1>
+    </header>
+
+    <!-- Video Container -->
+    <div id="video-container" class="flex-grow"></div>
+
+    <!-- Link the video call JavaScript file -->
+    <script src="videocall.js"></script>
+
+</body>
+</html>

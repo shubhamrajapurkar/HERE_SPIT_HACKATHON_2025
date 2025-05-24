@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <script src='https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.js'></script>
+  <link href='https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.css' rel='stylesheet' />
+  <script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.1.0/mapbox-gl-directions.js"></script>
+  <link
+    rel="stylesheet"
+    href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.1.0/mapbox-gl-directions.css"
+    type="text/css"
+  />
+  <title>Google Maps Clone</title>
+  <style>
+    body {
+      margin: 0;
+    }
+
+    #map {
+      height: 100vh;
+      width: 100vw;
+    }
+
+    /* Hide Mapbox watermark and attribution */
+    .mapboxgl-ctrl-logo,
+    .mapboxgl-ctrl-attrib {
+      display: none !important;
+    }
+
+    /* Overlay UI styling */
+    .explore-btn, .explore-nearby-btn {
+      position: absolute;
+      z-index: 10;
+      right: 2rem;
+      padding: 0.75rem 1.5rem;
+      background: #6366f1;
+      color: #fff;
+      border: none;
+      border-radius: 0.5rem;
+      font-size: 1rem;
+      font-weight: 600;
+      cursor: pointer;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+      transition: background 0.2s;
+    }
+    .explore-btn:hover, .explore-nearby-btn:hover {
+      background: #4338ca;
+    }
+    .explore-btn { top: 2rem; }
+    .explore-nearby-btn { top: 5rem; display: none; }
+    #explore-modal {
+      display: none;
+      position: fixed;
+      z-index: 20;
+      left: 0; top: 0; width: 100vw; height: 100vh;
+      background: rgba(0,0,0,0.3);
+      align-items: center; justify-content: center;
+    }
+    #explore-modal .modal-content {
+      background: #fff;
+      border-radius: 1rem;
+      padding: 2rem;
+      max-width: 400px;
+      margin: auto;
+      box-shadow: 0 4px 24px rgba(0,0,0,0.15);
+    }
+    #places-list {
+      position: absolute;
+      z-index: 15;
+      left: 2rem;
+      top: 2rem;
+      background: #fff;
+      border-radius: 0.75rem;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+      padding: 1rem 1.5rem;
+      min-width: 250px;
+      display: none;
+      max-height: 60vh;
+      overflow-y: auto;
+    }
+  </style>
+  <script src="mapbox.js" defer></script>
+  <script src="explore.js" defer></script>
+  <script>
+    // Prefill directions if src and dest are present in URL
+    window.addEventListener('DOMContentLoaded', function() {
+      const params = new URLSearchParams(window.location.search);
+      const src = params.get('src');
+      const dest = params.get('dest');
+      if (src && dest) {
+        window.prefillDirections = { src, dest };
+      }
+    });
+  </script>
+</head>
+<body>
+  <div id='map'></div>
+  <button class="explore-btn" id="explore-dest-btn" style="display:none;">Explore Destination</button>
+  <button class="explore-nearby-btn" id="explore-nearby-btn">Explore Nearby Places</button>
+  <div id="explore-modal">
+    <div class="modal-content">
+      <form id="explore-form" class="space-y-4">
+        <div>
+          <label class="block font-semibold text-lg mb-3 text-indigo-700">What do you want to explore?</label>
+          <div class="grid grid-cols-2 gap-3">
+            <label class="flex items-center bg-indigo-50 px-3 py-2 rounded-lg shadow-sm cursor-pointer hover:bg-indigo-100 transition">
+              <input type="checkbox" name="category" value="temple" class="mr-2 accent-indigo-600">Temples
+            </label>
+            <label class="flex items-center bg-indigo-50 px-3 py-2 rounded-lg shadow-sm cursor-pointer hover:bg-indigo-100 transition">
+              <input type="checkbox" name="category" value="cultural" class="mr-2 accent-indigo-600">Cultural Sites
+            </label>
+            <label class="flex items-center bg-indigo-50 px-3 py-2 rounded-lg shadow-sm cursor-pointer hover:bg-indigo-100 transition">
+              <input type="checkbox" name="category" value="cafe" class="mr-2 accent-indigo-600">Cafes
+            </label>
+            <label class="flex items-center bg-indigo-50 px-3 py-2 rounded-lg shadow-sm cursor-pointer hover:bg-indigo-100 transition">
+              <input type="checkbox" name="category" value="park" class="mr-2 accent-indigo-600">Parks
+            </label>
+          </div>
+        </div>
+        <button type="submit" class="w-full bg-indigo-600 hover:bg-indigo-700 text-white font-semibold py-2 rounded-lg shadow transition">Find Places</button>
+        <button type="button" id="close-modal" class="w-full mt-2 bg-gray-200 hover:bg-gray-300 text-gray-700 font-semibold py-2 rounded-lg shadow transition">Cancel</button>
+      </form>
+    </div>
+  </div>
+  <div id="places-list"></div>
+</body>
+</html>
