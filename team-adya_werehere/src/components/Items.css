@@ -1,0 +1,29 @@
+.sidebar {
+    @apply fixed left-0 top-0 h-screen w-16 
+           bg-white shadow-xl z-[100] 
+           flex flex-col items-center py-6;
+}
+
+.sidebar-icon {
+    @apply relative flex items-center justify-center 
+           h-12 w-12 mx-auto mb-2
+           bg-white hover:bg-gray-100 
+           text-gray-700 hover:text-gray-900
+           rounded-xl hover:rounded-lg
+           transition-all duration-200 ease-linear
+           cursor-pointer shadow-lg;
+}
+
+.sidebar-icon:hover::after {
+    content: attr(title);
+    position: absolute;
+    left: 100%;
+    margin-left: 10px;
+    padding: 4px 8px;
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+    font-size: 14px;
+    border-radius: 6px;
+    white-space: nowrap;
+    z-index: 200;
+}
