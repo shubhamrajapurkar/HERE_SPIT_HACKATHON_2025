@@ -1,0 +1,100 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+.pytest_cache/
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+
+
+*.html
+*.geojson
+*.json
+*.xml
+*.geojsonl
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# GIS specific
+*.shp
+*.shx
+*.dbf
+*.prj
+*.sbn
+*.sbx
+*.fbn
+*.fbx
+*.ain
+*.aih
+*.atx
+*.ixs
+*.mxs
+*.cpg
+*.qpj
+
+# Raster data
+*.tif
+*.tiff
+*.img
+*.grid
+*.grd
+*.dem
+*.asc
+*.adf
+
+# Other GIS formats
+*.gpkg
+*.geojson
+*.kml
+*.kmz
+*.gml
+*.json
+*.osm
+
+# Large data files
+*.csv
+*.xlsx
+*.xls
+data/raw/
+data/processed/
+data/interim/
+data/external/
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+logs/
+*.log
