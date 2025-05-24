@@ -1,0 +1,677 @@
+2025-05-24 00:02:06,471 - WikipediaScraper - INFO - Searching Wikipedia for: Mumbai landmarks
+2025-05-24 00:02:11,512 - WikipediaScraper - WARNING - Error extracting from article List of tourist attractions in Mumbai: 'coordinates'
+2025-05-24 00:02:30,955 - WikipediaScraper - WARNING - Error extracting from article Attribution of the 2008 Mumbai attacks: 'coordinates'
+2025-05-24 00:02:34,649 - WikipediaScraper - WARNING - Error extracting from article Shapoorji Pallonji Group: 'coordinates'
+2025-05-24 00:02:38,438 - WikipediaScraper - WARNING - Error extracting from article List of Mumbai Metro stations: 'coordinates'
+2025-05-24 00:02:42,457 - WikipediaScraper - WARNING - Error extracting from article Mumbai-Pune-Mumbai: 'coordinates'
+2025-05-24 00:02:46,307 - WikipediaScraper - INFO - Searching Wikipedia for: Mumbai buildings
+2025-05-24 00:02:51,440 - WikipediaScraper - WARNING - Error extracting from article List of tallest buildings in Mumbai: 'coordinates'
+2025-05-24 00:02:55,432 - WikipediaScraper - WARNING - Error extracting from article List of tallest buildings in India: 'coordinates'
+2025-05-24 00:02:59,224 - WikipediaScraper - WARNING - Error extracting from article Municipal Corporation Building, Mumbai: 'coordinates'
+2025-05-24 00:03:06,179 - WikipediaScraper - WARNING - Error extracting from article Mumbai Saga: 'coordinates'
+2025-05-24 00:03:09,945 - WikipediaScraper - WARNING - Error extracting from article List of tallest buildings in Navi Mumbai: 'coordinates'
+2025-05-24 00:03:20,305 - WikipediaScraper - WARNING - Error extracting from article Architecture of Mumbai: 'coordinates'
+2025-05-24 00:03:23,898 - WikipediaScraper - INFO - Searching Wikipedia for: Mumbai shopping
+2025-05-24 00:03:28,649 - WikipediaScraper - WARNING - Error extracting from article Phoenix Marketcity (Mumbai): 'coordinates'
+2025-05-24 00:03:32,190 - WikipediaScraper - WARNING - Error extracting from article List of shopping malls in India: 'coordinates'
+2025-05-24 00:03:36,195 - WikipediaScraper - WARNING - Error extracting from article Crossroads Mall (Mumbai): 'coordinates'
+2025-05-24 00:03:43,884 - WikipediaScraper - WARNING - Error extracting from article Linking Road, Mumbai: 'coordinates'
+2025-05-24 00:03:58,102 - WikipediaScraper - WARNING - Error extracting from article Mumbai-Pune-Mumbai: 'coordinates'
+2025-05-24 00:04:01,689 - WikipediaScraper - INFO - Searching Wikipedia for: Mumbai restaurants
+2025-05-24 00:04:06,293 - WikipediaScraper - WARNING - Error extracting from article Street food of Mumbai: 'coordinates'
+2025-05-24 00:04:08,964 - WikipediaScraper - WARNING - Error extracting from article Phoenix Marketcity (Mumbai): 'coordinates'
+2025-05-24 00:04:24,365 - WikipediaScraper - WARNING - Error extracting from article Speciality Restaurants Limited: 'coordinates'
+2025-05-24 00:04:28,413 - WikipediaScraper - WARNING - Error extracting from article Rahul Akerkar: 'coordinates'
+2025-05-24 00:04:41,432 - WikipediaScraper - INFO - Searching Wikipedia for: List of places in Mumbai
+2025-05-24 00:04:45,513 - WikipediaScraper - WARNING - Error extracting from article List of tourist attractions in Mumbai: 'coordinates'
+2025-05-24 00:04:48,562 - WikipediaScraper - WARNING - Error extracting from article List of tallest buildings in Mumbai: 'coordinates'
+2025-05-24 00:04:51,202 - WikipediaScraper - WARNING - Error extracting from article List of Mumbai Metro stations: 'coordinates'
+2025-05-24 00:04:55,545 - WikipediaScraper - WARNING - Error extracting from article List of churches in Mumbai: 'coordinates'
+2025-05-24 00:05:00,054 - WikipediaScraper - WARNING - Error extracting from article List of forts in Mumbai: 'coordinates'
+2025-05-24 00:05:04,638 - WikipediaScraper - WARNING - Error extracting from article List of people from Mumbai: 'coordinates'
+2025-05-24 00:05:09,165 - WikipediaScraper - WARNING - Error extracting from article List of mayors of Mumbai: 'coordinates'
+2025-05-24 00:05:13,978 - WikipediaScraper - WARNING - Error extracting from article Terrorism in India: 'coordinates'
+2025-05-24 00:05:17,968 - WikipediaScraper - WARNING - Error extracting from article Chennai Super Kings–Mumbai Indians cricket rivalry: 'coordinates'
+2025-05-24 00:05:22,032 - utils.data_handler - INFO - Saved 20 records to data/wikipedia_data.json
+2025-05-24 00:05:22,035 - OpenStreetMapScraper - INFO - Scraping OpenStreetMap for POIs in Mumbai
+2025-05-24 00:05:29,760 - OpenStreetMapScraper - ERROR - Overpass query error: Error: line 4: parse error: Value expected - '*' found. 
+Error: line 4: parse error: ']' expected - '*' found. 
+Error: line 5: parse error: Value expected - '*' found. 
+Error: line 5: parse error: ']' expected - '*' found. 
+Error: line 6: parse error: Value expected - '*' found. 
+Error: line 6: parse error: ']' expected - '*' found. 
+2025-05-24 00:05:33,037 - OpenStreetMapScraper - ERROR - Overpass query error: Error: line 4: parse error: Value expected - '*' found. 
+Error: line 4: parse error: ']' expected - '*' found. 
+Error: line 5: parse error: Value expected - '*' found. 
+Error: line 5: parse error: ']' expected - '*' found. 
+Error: line 6: parse error: Value expected - '*' found. 
+Error: line 6: parse error: ']' expected - '*' found. 
+2025-05-24 00:05:48,756 - utils.data_handler - INFO - Saved 1336 records to data/osm_data.json
+2025-05-24 00:05:48,759 - utils.data_handler - ERROR - Error loading justdial_data.json: [Errno 2] No such file or directory: 'justdial_data.json'
+2025-05-24 00:05:48,759 - utils.data_handler - ERROR - Error loading wikipedia_data.json: [Errno 2] No such file or directory: 'wikipedia_data.json'
+2025-05-24 00:05:48,759 - utils.data_handler - ERROR - Error loading osm_data.json: [Errno 2] No such file or directory: 'osm_data.json'
+2025-05-24 00:09:19,616 - WikipediaScraper - INFO - Searching Wikipedia for: List of roads in Mumbai
+2025-05-24 00:09:41,859 - WikipediaScraper - WARNING - Error extracting from article List of eponymous roads in Mumbai: 'coordinates'
+2025-05-24 00:56:22,718 - OpenStreetMapScraper - INFO - Scraping OpenStreetMap for POIs in Mumbai
+2025-05-24 00:56:33,583 - OpenStreetMapScraper - ERROR - Overpass query error: Error: line 4: parse error: Value expected - '*' found. 
+Error: line 4: parse error: ']' expected - '*' found. 
+Error: line 5: parse error: Value expected - '*' found. 
+Error: line 5: parse error: ']' expected - '*' found. 
+Error: line 6: parse error: Value expected - '*' found. 
+Error: line 6: parse error: ']' expected - '*' found. 
+2025-05-24 00:56:42,653 - OpenStreetMapScraper - ERROR - Overpass query error: Error: line 4: parse error: Value expected - '*' found. 
+Error: line 4: parse error: ']' expected - '*' found. 
+Error: line 5: parse error: Value expected - '*' found. 
+Error: line 5: parse error: ']' expected - '*' found. 
+Error: line 6: parse error: Value expected - '*' found. 
+Error: line 6: parse error: ']' expected - '*' found. 
+2025-05-24 01:18:36,264 - WikipediaScraper - INFO - Starting Wikipedia search for: Mumbai
+2025-05-24 01:18:44,745 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:18:49,135 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:18:53,034 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:18:57,476 - WikipediaScraper - INFO - Found 32 Mumbai roads
+2025-05-24 01:19:03,195 - WikipediaScraper - INFO - Found 0 Mumbai metro stations
+2025-05-24 01:19:03,197 - utils.data_handler - INFO - Saved 32 records to data/wikipedia_data.json
+2025-05-24 01:19:03,198 - OpenStreetMapScraper - INFO - Scraping OpenStreetMap for POIs in Mumbai
+2025-05-24 01:19:10,512 - OpenStreetMapScraper - ERROR - Overpass query error: Error: line 4: parse error: Value expected - '*' found. 
+Error: line 4: parse error: ']' expected - '*' found. 
+Error: line 5: parse error: Value expected - '*' found. 
+Error: line 5: parse error: ']' expected - '*' found. 
+Error: line 6: parse error: Value expected - '*' found. 
+Error: line 6: parse error: ']' expected - '*' found. 
+2025-05-24 01:19:13,584 - OpenStreetMapScraper - ERROR - Overpass query error: Error: line 4: parse error: Value expected - '*' found. 
+Error: line 4: parse error: ']' expected - '*' found. 
+Error: line 5: parse error: Value expected - '*' found. 
+Error: line 5: parse error: ']' expected - '*' found. 
+Error: line 6: parse error: Value expected - '*' found. 
+Error: line 6: parse error: ']' expected - '*' found. 
+2025-05-24 01:19:30,435 - utils.data_handler - INFO - Saved 1336 records to data/osm_data.json
+2025-05-24 01:19:30,436 - utils.data_handler - ERROR - Error loading justdial_data.json: [Errno 2] No such file or directory: 'justdial_data.json'
+2025-05-24 01:19:30,436 - utils.data_handler - ERROR - Error loading wikipedia_data.json: [Errno 2] No such file or directory: 'wikipedia_data.json'
+2025-05-24 01:19:30,436 - utils.data_handler - ERROR - Error loading osm_data.json: [Errno 2] No such file or directory: 'osm_data.json'
+2025-05-24 01:40:37,519 - WikipediaScraper - INFO - Starting Wikipedia search for: Mumbai
+2025-05-24 01:40:44,045 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:40:48,907 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:40:53,181 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:40:57,858 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:41:02,107 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:41:07,537 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:41:11,623 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:41:25,187 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:41:31,393 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:41:37,155 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:41:50,705 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:41:59,619 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:42:05,098 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:42:09,379 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:42:14,537 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:42:18,667 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:42:25,225 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:42:29,966 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:42:34,409 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:42:45,341 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:42:53,418 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:42:54,231 - WikipediaScraper - INFO - Found 34 Mumbai roads
+2025-05-24 01:43:05,140 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:43:16,026 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:43:27,871 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:43:36,384 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:43:42,383 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:44:21,347 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:44:27,881 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:45:14,936 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:45:19,929 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:45:28,374 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:45:45,037 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:45:51,441 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:46:05,388 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:46:10,166 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:46:22,028 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:46:32,576 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:46:39,039 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:46:47,612 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:46:51,703 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:46:56,585 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:47:09,401 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:47:14,981 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:47:21,816 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:47:28,693 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:47:35,725 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:47:43,802 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:47:48,602 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:48:05,789 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:48:21,911 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:48:29,132 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:48:40,895 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:50:08,980 - WikipediaScraper - INFO - Starting Wikipedia search for: Mumbai
+2025-05-24 01:50:14,631 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:50:19,706 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:50:24,110 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:50:34,649 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:50:40,688 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:50:45,611 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:50:50,375 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:51:07,185 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:51:13,195 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:51:19,123 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:51:32,239 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:51:40,407 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:51:45,961 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:51:50,289 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:51:55,274 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:51:59,240 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:52:06,401 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:52:11,286 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:52:15,822 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:52:33,026 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:52:37,940 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:52:38,550 - WikipediaScraper - INFO - Found 35 Mumbai roads
+2025-05-24 01:52:49,348 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:53:02,648 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:53:06,339 - WikipediaScraper - WARNING - Failed to get coordinates for Airport Road: "Airport Road" may refer to: 
+Chaklala, Rawalpindi
+Andrews Avenue
+Airport Road, Dhaka
+Airport Road metro station
+Baghdad Airport Road
+D 89 road (United Arab Emirates)
+Old Airport Road, Bangalore
+Nevada State Route 525
+Airport Road, Wyoming
+Airport Road (Huntsville)
+Airport Road (Ontario)
+Nevada State Route 759
+Nevada State Route 796
+Pennsylvania Route 987
+Veterans Memorial Parkway
+Santa Clara Airport Road
+Airport Boulevard (disambiguation)
+Airport Drive (disambiguation)
+2025-05-24 01:53:15,992 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:53:16,585 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:53:24,590 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:53:25,166 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:53:27,247 - WikipediaScraper - WARNING - Failed to get coordinates for Asalpha: "asaph" may refer to: 
+Asaph (biblical figure)
+Psalms of Asaph
+Asaph the Jew
+Book of Asaph
+Saint Asaph
+Diocese of St Asaph
+St Asaph
+Asaph (album)
+Asaph Hall
+Asaph Hall Jr.
+Asaph Fipke
+2025-05-24 01:53:31,627 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:54:10,745 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:54:18,058 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:54:24,196 - WikipediaScraper - WARNING - Failed to get coordinates for Dharavi: Page id "dharam" does not match any pages. Try another id!
+2025-05-24 01:54:53,792 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:54:54,360 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:55:01,895 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:55:02,482 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:55:03,834 - WikipediaScraper - WARNING - Failed to get coordinates for Kandivli West: Page id "kandivali west" does not match any pages. Try another id!
+2025-05-24 01:55:17,071 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:55:32,770 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:55:33,359 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:55:40,895 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:55:54,233 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:55:59,535 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:56:12,279 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:56:12,876 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:56:17,327 - WikipediaScraper - WARNING - Failed to get coordinates for Santacruz††: "Santa Cruz" may refer to: 
+Fort of Santa Cruz (Oran)
+Santa Cruz, Cape Verde
+Agadir
+Santa Cruz (Santiago)
+Santa Cruz, São Tomé and Príncipe
+Santa Cruz Islands
+RAF Santa Cruz
+Santacruz, Mumbai
+Chhatrapati Shivaji Maharaj International Airport
+Santacruz metro station
+Santacruz railway station
+Santa Cruz, Goa
+Santa Cruz, Camarines Norte (disambiguation)
+Jose Panganiban
+Labo
+Talisay
+Santa Cruz, Davao del Sur
+Santa Cruz, Ilocos Sur
+Santa Cruz, Laguna
+Santa Cruz, Manila
+Santa Cruz, Marinduque
+Santa Cruz, Occidental Mindoro
+Santa Cruz, Quezon City
+Santa Cruz, San Jose, Camarines Sur
+Santa Cruz, San Jose, Dinagat Islands
+Santa Cruz, Tubajon
+Santa Cruz, Zambales
+Anda, Bohol
+Cagayancillo
+Cebu City
+Pasig
+Santa Cruz Poblacion
+Santa Cruz (Almodôvar)
+Santa Cruz (Coimbra)
+Santa Cruz, Madeira
+Santa Cruz (Praia da Vitória)
+Santa Cruz (Armamar)
+Santa Cruz (Santiago do Cacém)
+Santa Cruz (Torres Vedras)
+Santa Cruz (Vinhais)
+Santa Cruz (Lagoa)
+Santa Cruz das Flores
+Santa Cruz das Flores (parish)
+Santa Cruz da Graciosa
+Santa Cruz da Graciosa (parish)
+Santa Cruz de Bezana
+Santa Cruz de Boedo
+Santa Cruz de Grío
+Santa Cruz de Moncayo
+Santa Cruz de Mudela
+Santa Cruz de Nogueras
+Santa Cruz de la Salceda
+Santa Cruz de la Serós
+Santa Cruz de los Cáñamos
+Santa Cruz de La Palma
+Province of Santa Cruz de Tenerife
+Oleiros, Galicia
+Santa Cruz (Mieres)
+Santa Cruz, Seville
+Castillo de Santa Cruz
+Santa Cruz de Tenerife
+Valle de los Caídos
+Santa Cruz (canton), Costa Rica
+Santa Cruz del Quiché
+Santa Cruz, Lempira
+Santa Cruz de Yojoa
+Santa Cruz, Jamaica
+Santa Cruz, Trinidad and Tobago
+Santa Cruz, Orange Walk
+Santa Cruz, Stann Creek
+Santa Cruz, Toledo
+Santa Cruz, Ontario
+Santa Cruz del Norte
+Santa Cruz del Sur
+Santa Cruz de Barahona
+Santa Cruz de El Seibo
+Santa Cruz de Mao
+Santa Cruz, Aruba
+Playa Santa Cruz
+Santa Cruz Acatepec
+Santa Cruz Amilpas
+Santa Cruz de Bravo
+Santa Cruz Itundujia
+Santa Cruz Mixtepec
+Santa Cruz Nundaco
+Santa Cruz Papalutla
+Santa Cruz Tacache de Mina
+Santa Cruz Tacahua
+Santa Cruz Tayata
+Santa Cruz Xitla
+Santa Cruz Xoxocotlán
+Santa Cruz Zenzontepec
+Santa Cruz Atizapán
+Santa Cruz de Juventino Rosas
+Santa Cruz del Rincón
+Santa Cruz Municipality, Sonora
+Santa Cruz, Sonora
+Santa Cruz, Rivas
+Santa Cruz, Rio San Juan
+Santa Cruz, Renacimiento
+Santa Cruz, San Félix
+Santa Cruz, Carolina, Puerto Rico
+Santa Cruz, Arizona
+Santa Cruz, Pima County, Arizona
+Santa Cruz County, Arizona
+Santa Cruz River (Arizona)
+Santa Cruz County, California
+Santa Cruz, California
+Santa Cruz Island
+Indian Gulch, California
+Santa Cruz, New Mexico
+Santa Cruz, Texas
+Santa Cruz, Starr County, Texas
+Saint Croix
+Santa Cruz, Chile
+Santa Cruz, Aragua
+Santa Cruz Province, Argentina
+Puerto Santa Cruz
+Santa Cruz, Catamarca
+Santa Cruz, La Rioja
+Santa Cruz River (Argentina)
+Santa Cruz Department (Bolivia)
+Santa Cruz de la Sierra
+Santa Cruz, Paraíba
+Santa Cruz, Rio Grande do Norte
+Santa Cruz do Arari
+Santa Cruz Cabrália
+Santa Cruz da Conceição
+Santa Cruz do Escalvado
+Santa Cruz da Esperança
+Santa Cruz de Goiás
+Santa Cruz dos Milagres
+Santa Cruz de Minas
+Santa Cruz das Palmeiras
+Santa Cruz do Piauí
+Santa Cruz do Rio Pardo
+Santa Cruz de Salinas
+Santa Cruz da Vitória
+Santa Cruz, Pernambuco
+Santa Cruz da Baixa Verde
+Santa Cruz do Capibaribe
+Santa Cruz do Sul
+Santa Cruz, Rio de Janeiro
+Santa Cruz (São Paulo Metro)
+Santa Cruz de Mompox
+Santa Cruz del Islote
+Santacruz, Nariño
+Santa Cruz (Medellín)
+Santa Cruz Canton, Ecuador
+Santa Cruz Island (Galápagos)
+Santa Cruz (mountain)
+Santa Cruz District, Alto Amazonas
+Santa Cruz District, Ancash
+Santa Cruz de Andamarca District
+Santa Cruz de Chuca District
+Santa Cruz de Cocachacra District
+Santa Cruz de Flores District
+Santa Cruz District, Palpa
+Santa Cruz District, Santa Cruz
+Santa Cruz de Toledo District
+Santa Cruz, Satipo, Peru
+Santa Cruz Province, Peru
+Santa Cruz (surname)
+Santa Cruz Beach Boardwalk
+Santa Cruz Bicycles
+Santa Cruz Games
+Santa Cruz Guitar Company
+Santa Cruz Operation
+NHS, Inc.
+Turtle Beach Systems
+Battle of Santa Cruz (disambiguation)
+Battle of the Santa Cruz Islands
+Fort of Santa Cruz (Horta)
+Fort of Santa Cruz (Oran)
+Santa Cruz (band)
+Pedro the Lion
+Santa Cruz (You're Not That Far)
+Associação Atlética Santa Cruz
+Futebol Clube Santa Cruz
+Santa Cruz Esporte Clube
+Santa Cruz Futebol Clube
+Santa Cruz Futebol Clube (MG)
+Santa Cruz Futebol Clube (RJ)
+Santa Cruz Futebol Clube (RN)
+Santa Cruz Recreativo Esporte Clube
+Sport Club Santa Cruz
+Deportes Santa Cruz
+Real Santa Cruz
+Club Blooming
+Santa Cruz Syndicate
+Santa Cruz Warriors
+UC Santa Cruz Banana Slugs
+Santa Cruz (Martian crater)
+Santa Cruz Cartel
+Santa Cruz II
+Santa Cruz massacre
+Hyundai Santa Cruz
+Canal de Santa Cruz
+Cruz
+Cruz (disambiguation)
+Holy Cross (disambiguation)
+Sainte-Croix (disambiguation)
+Santa Croce (disambiguation)
+MS Annie Johnson
+Santa Cruz Canton (disambiguation)
+Santa Cruz District (disambiguation)
+Santa Cruz Formation (disambiguation)
+Santa Cruz Mountains
+Santa Cruz Province (disambiguation)
+St Cross (disambiguation)
+University of California, Santa Cruz
+2025-05-24 01:56:26,201 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:56:33,184 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:56:42,699 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:56:43,291 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:56:47,302 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:56:52,831 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:56:56,217 - WikipediaScraper - WARNING - Failed to get coordinates for Worli: "worley" may refer to: 
+Worley, Idaho
+Worley, Kentucky
+Worley, West Virginia
+Worley Point
+Worley (surname)
+Worley baronets
+Worley Edwards
+Worley Thorne
+Worley (company)
+Worley noise
+2025-05-24 01:57:07,111 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:57:13,322 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:57:21,526 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:57:28,701 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:57:37,948 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:57:46,095 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:57:51,412 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:58:07,170 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:58:22,781 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:58:30,653 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:58:38,758 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:58:46,519 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:58:56,520 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:58:57,113 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:59:04,069 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:59:12,144 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:59:20,973 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:59:29,647 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:59:34,952 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:59:38,770 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:59:46,415 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 01:59:54,073 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:00:01,615 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:00:09,405 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:00:13,967 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:00:18,673 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:00:26,482 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:00:34,256 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:00:42,476 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:00:50,050 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:00:58,425 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:01:12,240 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:01:19,950 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:01:27,684 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:01:31,394 - WikipediaScraper - WARNING - Failed to get coordinates for Grant Road††: "Grant Road" may refer to: 
+Grant Road (South Mumbai, India)
+Grant Road (Los Alamos, New Mexico)
+Grant Road Historic District
+Grant Road railway station
+Grant Road metro station
+Grant Road Reserve
+2025-05-24 02:01:39,186 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:01:46,638 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:02:02,623 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:02:06,053 - WikipediaScraper - WARNING - Failed to get coordinates for Indira Nagar (Vile Parle): "Indira Nagar" may refer to: 
+Indiranagar, Mysore
+Indiranagar, Bengaluru
+Indira Nagar, Chennai
+Indira Nagar railway station
+Indira Nagar, Lucknow
+Indira Nagar metro station
+Indira Nagar, Srinagar
+Indira Nagar Assembly constituency
+Indira Nagar (Vile Parle) metro station
+Indira (disambiguation)
+Nagar (disambiguation)
+2025-05-24 02:02:18,762 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:02:26,537 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:02:27,109 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:02:33,388 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:02:44,024 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:02:49,308 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:02:56,231 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:03:09,028 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:03:17,335 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:03:25,365 - WikipediaScraper - WARNING - Failed to get coordinates for Laxmi Nagar (Ghatkopar): "Laxmi Nagar" may refer to: 
+Laxmi Nagar (Delhi)
+Laxmi Nagar Assembly constituency
+Laxmi Nagar metro station
+Lakshmi Nagar, Erode
+Laxmi Nagar, Great Nicobar
+Laxmi Nagar (Pune) metro station
+Laxmi Nagar (Jaipur) metro station
+Laxmi Nagar (Ghatkopar) metro station
+Laxminagar Colony, Mehdipatnam
+Lakshminagar, Doti
+Lakshmi (disambiguation)
+Nagar (disambiguation)
+Jhansi Ki Rani (disambiguation)
+Laxmibai Nagar
+Laxmibai Nagar railway station
+2025-05-24 02:03:37,550 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:03:38,130 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:03:47,988 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:03:59,987 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:04:09,868 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:04:17,656 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:04:25,456 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:04:31,401 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:04:40,128 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:04:47,967 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:04:58,209 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:05:03,321 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:05:14,235 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:05:19,122 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:05:26,921 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:05:31,885 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:05:32,483 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:05:34,610 - WikipediaScraper - WARNING - Failed to get coordinates for Prem Nagar: "Prem Nagar" may refer to: 
+Prem Nagar (1940 film)
+Prem Nagar (1974 film)
+Prema Nagar
+Prem Nagar, Bhiwani
+Prem Nagar, Uttarakhand
+Prem Nagar, Chhattisgarh
+Premnagar Assembly constituency
+Prem Nagar Export Zone
+Prem Nagar
+Prem Nagar, Hyderabad
+Prem Nagar, Delhi
+Prem Nagar (Loni) metro station
+Prem Nagar metro station
+Love City (disambiguation)
+2025-05-24 02:05:46,431 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:05:54,272 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:06:02,206 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:06:05,900 - WikipediaScraper - WARNING - Failed to get coordinates for Sagaon: "sagan" may refer to: 
+Żagań
+Żagań
+Duchy of Żagań
+Sagan, Iran
+Sagan, West Azerbaijan
+Sagan, Ethiopia
+Sagan River
+Şağan
+2709 Sagan
+Sagan (crater)
+Segan
+Anna of Sagan
+Alexandra "Sasha" Sagan
+Carl Sagan
+Dorion Sagan
+Françoise Sagan
+Ginetta Sagan
+Hedwig of Sagan
+Jacob Dungau Sagan
+Jeanne Sagan
+Juraj Sagan
+Leontine Sagan
+Nick Sagan
+Peter Sagan
+Scott Sagan
+Sagan (number)
+Sagan (unit of measurement)
+S.A.G.A.N.
+Sagan (software)
+Sagan (ceremony)
+Sagan (film)
+Sagan Tosu
+All pages with titles containing Sagan
+All pages with titles beginning with Sagan
+Sagen (disambiguation)
+2025-05-24 02:06:14,344 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:06:21,759 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:06:27,450 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:06:35,218 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:06:40,185 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:06:53,703 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:07:01,441 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:07:04,047 - WikipediaScraper - WARNING - Failed to get coordinates for Shangrila: Page id "shangri la" does not match any pages. Try another id!
+2025-05-24 02:07:10,602 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:07:15,837 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:07:21,568 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:07:29,091 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:07:35,304 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:07:48,175 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:07:53,489 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:08:01,182 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:08:08,510 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:08:14,078 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:08:25,290 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:08:32,552 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:08:46,879 - WikipediaScraper - WARNING - Failed to get coordinates for Waklan: "wakeman" may refer to: 
+Wakeman, Ohio
+The Wakeman School
+Wakeman Sound
+Wakeman River
+Wakeman (surname)
+Ripon
+2025-05-24 02:08:51,824 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:08:55,072 - WikipediaScraper - WARNING - Failed to get coordinates for Vidhan Bhavan: "Vidhan Bhavan" may refer to: 
+Vidhan Bhavan, Jaipur
+Vidhan Bhavan, Lucknow
+Vidhan Bhavan, Nagpur
+Vidhan Bhavan metro station
+Bidhan (disambiguation)
+Bhawan (disambiguation)
+2025-05-24 02:09:02,815 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:09:08,331 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:09:23,535 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:09:44,995 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:09:50,860 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:09:57,050 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:10:03,045 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:10:09,145 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:10:15,313 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:10:21,076 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:10:27,267 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:10:33,711 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:10:40,822 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:10:47,536 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:10:54,345 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:11:01,088 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:11:07,519 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:11:14,289 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:11:20,090 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:11:25,554 - WikipediaScraper - WARNING - Coordinate extraction failed: 'coordinates'
+2025-05-24 02:11:26,756 - WikipediaScraper - INFO - Found 208 Mumbai metro stations
+2025-05-24 02:11:26,764 - utils.data_handler - INFO - Saved 243 records to data/wikipedia_data.json
+2025-05-24 02:11:26,768 - OpenStreetMapScraper - INFO - Scraping OpenStreetMap for POIs in Mumbai
+2025-05-24 02:11:33,072 - OpenStreetMapScraper - ERROR - Overpass query error: Error: line 4: parse error: Value expected - '*' found. 
+Error: line 4: parse error: ']' expected - '*' found. 
+Error: line 5: parse error: Value expected - '*' found. 
+Error: line 5: parse error: ']' expected - '*' found. 
+Error: line 6: parse error: Value expected - '*' found. 
+Error: line 6: parse error: ']' expected - '*' found. 
+2025-05-24 02:11:35,959 - OpenStreetMapScraper - ERROR - Overpass query error: Error: line 4: parse error: Value expected - '*' found. 
+Error: line 4: parse error: ']' expected - '*' found. 
+Error: line 5: parse error: Value expected - '*' found. 
+Error: line 5: parse error: ']' expected - '*' found. 
+Error: line 6: parse error: Value expected - '*' found. 
+Error: line 6: parse error: ']' expected - '*' found. 
+2025-05-24 02:11:48,591 - utils.data_handler - INFO - Saved 1336 records to data/osm_data.json
+2025-05-24 02:11:48,592 - utils.data_handler - ERROR - Error loading justdial_data.json: [Errno 2] No such file or directory: 'justdial_data.json'
+2025-05-24 02:11:48,592 - utils.data_handler - ERROR - Error loading wikipedia_data.json: [Errno 2] No such file or directory: 'wikipedia_data.json'
+2025-05-24 02:11:48,592 - utils.data_handler - ERROR - Error loading osm_data.json: [Errno 2] No such file or directory: 'osm_data.json'
