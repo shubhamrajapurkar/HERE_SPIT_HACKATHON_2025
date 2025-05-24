@@ -1,0 +1,2172 @@
+{
+  "metadata": {
+    "source": "Wikipedia",
+    "timestamp": "2025-05-24T02:11:26.756834",
+    "total_records": 243,
+    "scraper_version": "1.0"
+  },
+  "data": [
+    {
+      "name": "^ \"Politics and emotions behind renaming Mumbai's streets\". Hindustan Times. 10 November 2018. Retrieved 9 June 2019.",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:50:11.644633",
+      "address": "^ \"Politics and emotions behind renaming Mumbai's streets\". Hindustan Times. 10 November 2018. Retrieved 9 June 2019., Mumbai",
+      "description": "This is a list of roads in Mumbai named after people.\n\n"
+    },
+    {
+      "name": "^ a b c \"Mumbai: To learn the meaning of road names, check signboards\". DNA India. 25 February 2019. Retrieved 9 June 2019.",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:50:15.821715",
+      "address": "^ a b c \"Mumbai: To learn the meaning of road names, check signboards\". DNA India. 25 February 2019. Retrieved 9 June 2019., Mumbai"
+    },
+    {
+      "name": "^ \"Road in Mumbai named after woman who started Arya Mahila Samaj\". The Indian Express. 14 August 2017. Retrieved 9 June 2019.",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:50:16.490242",
+      "address": "^ \"Road in Mumbai named after woman who started Arya Mahila Samaj\". The Indian Express. 14 August 2017. Retrieved 9 June 2019., Mumbai",
+      "description": "This is a list of roads in Mumbai named after people.\n\n"
+    },
+    {
+      "name": "^ \"Rustom Sidhwa Marg: 'It is tragic only a few remember the fearless crusader, let alone recall his services to nation'\". The Indian Express. 20 November 2017. Retrieved 9 June 2019.",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:50:21.033608",
+      "address": "^ \"Rustom Sidhwa Marg: 'It is tragic only a few remember the fearless crusader, let alone recall his services to nation'\". The Indian Express. 20 November 2017. Retrieved 9 June 2019., Mumbai",
+      "description": "This is a list of roads in Mumbai named after people.\n\n"
+    },
+    {
+      "name": "^ \"Pincode of JAGANNATH SHANKAR SHETH ROAD WANDEKAR MANSION J S GIRGAON MUMBAI MAHARASHTRA 400004 Pincode.net.in\".",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:50:25.325828",
+      "address": "^ \"Pincode of JAGANNATH SHANKAR SHETH ROAD WANDEKAR MANSION J S GIRGAON MUMBAI MAHARASHTRA 400004 Pincode.net.in\"., Mumbai",
+      "description": "This is a list of roads in Mumbai named after people.\n\n"
+    },
+    {
+      "name": "^ \"Jangali maharaj road mumbai\".",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:50:36.965276",
+      "address": "^ \"Jangali maharaj road mumbai\"., Mumbai",
+      "description": "This is a list of roads in Mumbai named after people.\n\n"
+    },
+    {
+      "name": "Shahid Bhagat Singh Marg",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:50:41.865221",
+      "address": "the suburb of Nala Sopara, Mumbai",
+      "description": "The Asiatic Society of Mumbai (formerly Asiatic Society of Bombay) is a learned society in the field of Asian studies based in Mumbai, India. It can trace its origin to the Literary Society of Bombay which first met in Mumbai on 26 November 1804, and was founded by Sir James Mackintosh. It was formed with the intention of \"promoting useful knowledge, particularly such as is now immediately connected with India\". After the Royal Asiatic Society of Great Britain and Ireland was established in Lond"
+    },
+    {
+      "name": "Bhulabhai Desai Road",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:50:46.800049",
+      "address": "Bhulabhai Desai Road, Mumbai",
+      "description": "Bhulabhai Desai (13 October 1877 – 6 May 1946) was an Indian independence activist and acclaimed lawyer. He is well-remembered for his defence of the three Indian National Army soldiers accused of treason during World War II, and for attempting to negotiate a secret power-sharing agreement with Liaquat Ali Khan of the Muslim League."
+    },
+    {
+      "name": "Dr. Gopalrao Deshmukh Marg",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:50:51.626967",
+      "address": "Dr. Gopalrao Deshmukh Marg, Mumbai",
+      "latitude": 18.97,
+      "longitude": 72.8061,
+      "description": "Gopalrao Deshmukh Marg formerly known as Pedder Road is an arterial road in the city of  Mumbai, India, passing through the affluent Cumballa Hill neighbourhood. The road is named after a social activist and first Mayor of Bombay (present-day Mumbai) after India's Independence, Dr. Gopalrao Deshmukh."
+    },
+    {
+      "name": "Dr. Dadasaheb Bhadkamkar Marg",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:50:57.796680",
+      "address": "Dr. Dadasaheb Bhadkamkar Marg, Mumbai"
+    },
+    {
+      "name": "Dr. Kashibai Navrange Marg",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:51:00.014695",
+      "address": "Dr. Kashibai Navrange Marg, Mumbai"
+    },
+    {
+      "name": "Lady Jamshetjee Road",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:51:01.362365",
+      "address": "Lady Jamshetjee Road, Mumbai"
+    },
+    {
+      "name": "Lal Bahadur Shastri Marg",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:51:03.212573",
+      "address": "LBS Marg, Mumbai",
+      "description": "Lal Bahadur Shastri Marg, commonly known by its abbreviation LBS Marg, is a 21 km long, major arterial road connecting the neighbouring city of Thane with Sion in Mumbai. It passes through heavily populated areas of the Eastern Suburbs in Mumbai and is heavily congested. Approximately, 3 lakh vehicles use this road daily. The road is named after Lal Bahadur Shastri, the second Prime Minister of India."
+    },
+    {
+      "name": "M.L. Dahanukar Marg",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:51:08.365181",
+      "address": "M.L. Dahanukar Marg, Mumbai"
+    },
+    {
+      "name": "Mohammad Ali Road",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:51:09.688909",
+      "address": "Mohammad Ali Road, Mumbai",
+      "description": "Karim Lala (1911 – 19 February 2002), born Abdul Karim Sher Khan in the Samalam Village of the Shegal District of Kunar Province, Afghanistan, was infamous as one of the three \"mafia dons of Mumbai\" in India for more than two decades from the sixties to the early eighties, the other two being Mastan Mirza aka Haji Mastan and Varadarajan Mudaliar."
+    },
+    {
+      "name": "N.S. Patkar Marg",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:51:14.384496",
+      "address": "N.S. Patkar Marg, Mumbai"
+    },
+    {
+      "name": "Nepean Sea Road",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:51:15.810181",
+      "address": "Malabar Hill in South Mumbai",
+      "description": "Nepean Sea Road is a neighbourhood near Malabar Hill in South Mumbai, India."
+    },
+    {
+      "name": "Ramdas Nayak Road",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:51:20.335424",
+      "address": "Ramdas Nayak Road, Mumbai",
+      "latitude": 19.0552,
+      "longitude": 72.8302,
+      "description": "Hill Road (officially renamed as Ramdas Nayak Road) is an arterial road in Bandra (West), Mumbai, India. It starts from the intersection of Bandra railway station road and Swami Vivekanand Road (SV Road) and goes west up to Mehboob Studio, leading to the Bandstand Promenade, the Bandra Fort, and Mount Mary Church, Bandra. Hill Road houses a number of old and new brands.the shops on hill road are closed on Friday.\nThe 165-year-old St. Stanislaus High School, and its adjoining St. Peter's church, "
+    },
+    {
+      "name": "Pandita Ramabai Marg",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:51:24.736696",
+      "address": "Pandita Ramabai Marg, Mumbai"
+    },
+    {
+      "name": "Rustom Sidhwa Marg",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:51:26.078333",
+      "address": "Rustom Sidhwa Marg, Mumbai"
+    },
+    {
+      "name": "S.K. Barodawallah Marg",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:51:27.333542",
+      "address": "S.K. Barodawallah Marg, Mumbai"
+    },
+    {
+      "name": "Samaldas Gandhi Marg",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:51:28.558164",
+      "address": "Samaldas Gandhi Marg, Mumbai",
+      "description": "Samaldas Gandhi (1897–1953) was a journalist and Indian independence activist who headed the Aarzi Hakumat or Provisional Government of the erstwhile princely state of Junagadh. He was a nephew of Mahatma Gandhi."
+    },
+    {
+      "name": "Netaji Subhash Chandra Bose Road",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:51:33.418408",
+      "address": "with a butler, Mumbai",
+      "description": "Subhas Chandra Bose (23 January 1897 – 18 August 1945) was an Indian nationalist whose defiance of British authority in India made him a hero among many Indians, but his wartime alliances with Nazi Germany and Fascist Japan left a legacy vexed by authoritarianism, anti-Semitism, and military failure. The honorific 'Netaji' (Hindustani: \"Respected Leader\") was first applied to Bose in Germany in early 1942—by the Indian soldiers of the Indische Legion and by the German and Indian officials in the"
+    },
+    {
+      "name": "Swami Vivekanand Road",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:51:42.094788",
+      "address": "Swami Vivekanand Road, Mumbai",
+      "description": "Swami Vivekanand Road, shortened to S.V. Road, is a major arterial road in the western suburbs of the city of Mumbai, India. Swami Vivekanand Road was earlier known as Ghodbunder Road because of being only road parallel to the coast. One can easily find the name , Ghodbunder Road still being used in the electoral roll."
+    },
+    {
+      "name": "Vitthalbhai Patel Road",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:51:47.156996",
+      "address": "Vitthalbhai Patel Road, Mumbai",
+      "description": "This is a list of roads in Mumbai named after people.\n\n"
+    },
+    {
+      "name": "Shankarsheth Road",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:51:51.470798",
+      "address": "Shankarsheth Road, Mumbai",
+      "description": "This is a list of roads in Pune, a city in the state of Maharashtra in India.\n\n"
+    },
+    {
+      "name": "Jangali Maharaj Road",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:51:56.447781",
+      "address": "Solapur Maharashtra in the early 18th century, Mumbai",
+      "description": "Jangali Maharaj (1818–1890), also known as Sadguru Jangali Maharaj or Guru Maharaj \"Jungle\" (Jangali) \"Resident of forest\" (Maharaj) Emperor. A major commercial road in Pune (Jangali Maharaj Road) is named after him.\nIt is believed that he was born in Honmurgi village near Solapur Maharashtra in the early 18th century. Very little is known about his early life other than that he was Guru of Patthe Bapurao Kulkarni, a Maharashtrian.\nHe was a very great spiritual guru and had enlightened all the s"
+    },
+    {
+      "name": "J. N. Heredia Marg",
+      "category": "road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:52:00.419457",
+      "address": "J. N. Heredia Marg, Mumbai"
+    },
+    {
+      "name": "Western Express Highway",
+      "category": "road",
+      "description": "The Western Express Highway, abbreviated to WEH (officially Ali Yavar Jung Marg after the former Governor of Maharashtra), is a major north–south 8-10 lane arterial road in Mumbai, India, stretching from the suburb of Mira Road to Bandra. The 25.33 km (15.74 mi) highway begins near the Mahim Creek and extends to the Kashimira in the northern limit of the city till it connects National Highway 48 at Ghodbunder village. The road connects the city of Mumbai to its suburbs, including the Chhatrapati",
+      "url": "https://en.wikipedia.org/wiki/Western_Express_Highway",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:52:05.808053",
+      "address": "sections Western Express Highway, Mumbai",
+      "length": "25.33 km (15.74 mi)"
+    },
+    {
+      "name": "Eastern Express Highway",
+      "category": "road",
+      "description": "The Eastern Express Highway, abbreviated to EEH, is a 23.55 km (14.63 mi) city express highway serving the cities of Mumbai and Thane. It is one of the busiest roads in the Mumbai Metropolitan Area and is a part of the National Highway 48. It is a north–south artery of Mumbai connecting the city proper to the eastern suburbs and to the metropolitan area of Thane.\nFor most of its course, it is 6 lanes wide (3 lanes in each direction) with over a dozen flyovers/grade separators.",
+      "url": "https://en.wikipedia.org/wiki/Eastern_Express_Highway",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:52:10.693676",
+      "address": "north to south direction and are parallel in certain sections, Mumbai",
+      "length": "23.55 km (14.63 mi)"
+    },
+    {
+      "name": "Linking Road, Mumbai",
+      "category": "road",
+      "description": "Linking Road is a road which extends from Bandra to Santacruz West in the city of Mumbai, India which is the third largest shopping district in India in terms of revenue and footfalls.\n\n",
+      "url": "https://en.wikipedia.org/wiki/Linking_Road,_Mumbai",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:52:15.225040",
+      "address": "Linking Road, Mumbai"
+    },
+    {
+      "name": "Marine Drive, Mumbai",
+      "category": "road",
+      "description": "Marine Drive is a 3 kilometre-long promenade along the Netaji Subhash Chandra Bose Road in Mumbai, India. The road and promenade were constructed by Pallonji Mistry in 1940. It is a banana-shaped, six-lane concrete road along the coast of a natural bay. At the northern end of Marine Drive is Girgaon Chowpatty and the adjacent road links Nariman Point at the southern tip to Babulnath and Malabar Hill at the northern tip. Marine Drive is situated on reclaimed land facing west-south-west. Marine Dr",
+      "url": "https://en.wikipedia.org/wiki/Marine_Drive,_Mumbai",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:52:20.112474",
+      "address": "reclaimed land facing west-south-west, Mumbai",
+      "latitude": 18.944,
+      "longitude": 72.823
+    },
+    {
+      "name": "Hill Road, Mumbai",
+      "category": "road",
+      "description": "Hill Road (officially renamed as Ramdas Nayak Road) is an arterial road in Bandra (West), Mumbai, India. It starts from the intersection of Bandra railway station road and Swami Vivekanand Road (SV Road) and goes west up to Mehboob Studio, leading to the Bandstand Promenade, the Bandra Fort, and Mount Mary Church, Bandra. Hill Road houses a number of old and new brands.the shops on hill road are closed on Friday.\nThe 165-year-old St. Stanislaus High School, and its adjoining St. Peter's church, ",
+      "url": "https://en.wikipedia.org/wiki/Hill_Road,_Mumbai",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:52:24.471811",
+      "address": "Hill Road, Mumbai, Mumbai",
+      "latitude": 19.0552,
+      "longitude": 72.8302
+    },
+    {
+      "name": "Annie Besant",
+      "category": "road",
+      "description": "Annie Besant (; née Wood; 1 October 1847 – 20 September 1933) was an English socialist, theosophist, freemason, women's rights and Home Rule activist, educationist and campaigner for Indian nationalism. She was an ardent supporter of both Irish and Indian self-rule. She became the first female president of the Indian National Congress in 1917. \nShe became a prominent speaker for the National Secular Society (NSS), as well as a writer, and a close friend of Charles Bradlaugh. In 1877 they were pr",
+      "url": "https://en.wikipedia.org/wiki/Annie_Besant",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:52:32.428599",
+      "address": "orthodox, Mumbai"
+    },
+    {
+      "name": "P D'Mello Road",
+      "category": "road",
+      "description": "P D'Mello Road is a 6 km long arterial north–south access road in Mumbai. P D'Mello Road is the name of the 6 km stretch between the south-end of the Eastern Freeway and the north-end of the Colaba Causeway. The road comes under Mumbai's B Ward.\nAs of 2009, daily traffic on the road averaged of 22,600 vehicles.",
+      "url": "https://en.wikipedia.org/wiki/P_D%27Mello_Road",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:52:37.342546",
+      "address": "P D'Mello Road, Mumbai",
+      "length": "6 km (3.7 mi)"
+    },
+    {
+      "name": "Aarey",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:52:44.135760",
+      "line": "आरे",
+      "interchange": "Line 7",
+      "address": "Deuteronomy 10:6, Mumbai"
+    },
+    {
+      "name": "Aarey JVLR†¤",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:52:50.774240",
+      "line": "आरे जे.व्ही.एल.आर.",
+      "interchange": "Line 3",
+      "latitude": 19.13111,
+      "longitude": 72.88432
+    },
+    {
+      "name": "Acharya Atrey Chowk",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:52:56.886815",
+      "line": "आचार्य अत्रे चौक",
+      "interchange": "Line 3",
+      "address": "the metro corridor that were in danger of collapsing during tunneling work, Mumbai"
+    },
+    {
+      "name": "Airport Road",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:53:04.073425",
+      "line": "विमानतळ रस्ता",
+      "interchange": "Line 1"
+    },
+    {
+      "name": "Akurli",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:53:07.632177",
+      "line": "आकुर्ली",
+      "interchange": "Line 7",
+      "latitude": 19.204511,
+      "longitude": 72.837639
+    },
+    {
+      "name": "Anand Nagar (Mumbai)",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:53:11.335665",
+      "line": "आनंद नगर",
+      "interchange": "Line 2",
+      "latitude": 19.257217,
+      "longitude": 72.8651362
+    },
+    {
+      "name": "Andheri††",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:53:16.588393",
+      "line": "अंधेरी",
+      "interchange": "Line 1",
+      "latitude": 19.119,
+      "longitude": 72.847
+    },
+    {
+      "name": "Andheri West*",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:53:20.448610",
+      "line": "अंधेरी (पश्चिम)",
+      "interchange": "Line 2",
+      "latitude": 19.1,
+      "longitude": 72.83
+    },
+    {
+      "name": "Asalpha",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:53:25.167721",
+      "line": "असल्फा",
+      "interchange": "Line 1"
+    },
+    {
+      "name": "Azad Nagar",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:53:28.552248",
+      "line": "आझाद नगर",
+      "interchange": "Line 1"
+    },
+    {
+      "name": "Bandra Colony",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:53:32.794310",
+      "line": "वांद्रे वसाहत",
+      "interchange": "Line 3",
+      "latitude": 19.07001,
+      "longitude": 72.84941
+    },
+    {
+      "name": "Bandra - Kurla Complex*",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:53:36.537056",
+      "line": "वांद्रे - कुर्ला संकुल",
+      "interchange": "Line 3Line 2",
+      "latitude": 19.130815,
+      "longitude": 72.82927
+    },
+    {
+      "name": "Bangur Nagar",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:53:40.629459",
+      "line": "बांगुर नगर",
+      "interchange": "Line 2",
+      "latitude": 19.167362,
+      "longitude": 72.832252
+    },
+    {
+      "name": "Borivali West",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:53:43.995448",
+      "line": "बोरीवली (पश्चिम)",
+      "interchange": "Line 2",
+      "latitude": 19.23,
+      "longitude": 72.86
+    },
+    {
+      "name": "Chakala (J B Nagar)",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:53:47.896807",
+      "line": "चकाला (जे.बी. नगर)",
+      "interchange": "Line 1",
+      "latitude": 19.112045,
+      "longitude": 72.867696
+    },
+    {
+      "name": "Chhatrapati Shivaji Maharaj International Airport - T1",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:53:52.043898",
+      "line": "छत्रपती शिवाजी महाराज आंतरराष्ट्रीय विमानतळ - टी१",
+      "interchange": "Line 3",
+      "latitude": 19.10215,
+      "longitude": 72.87444
+    },
+    {
+      "name": "Chhatrapati Shivaji Maharaj International Airport - T2†*",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:53:56.011285",
+      "line": "छत्रपती शिवाजी महाराज आंतरराष्ट्रीय विमानतळ - टी२",
+      "interchange": "Line 3Line 7Line 8[a]",
+      "latitude": 19.10215,
+      "longitude": 72.87444
+    },
+    {
+      "name": "Dadar",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:54:00.740979",
+      "line": "दादर",
+      "interchange": "Line 3",
+      "latitude": 19.021,
+      "longitude": 72.841
+    },
+    {
+      "name": "Dahanukarwadi",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:54:04.510545",
+      "line": "डहाणूकरवाडी",
+      "interchange": "Line 2",
+      "address": "between the Santa Cruz–Chembur Link Road (SCLR) rail overbridge and another permanent structure, Mumbai"
+    },
+    {
+      "name": "Dahisar East†*",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:54:12.165195",
+      "line": "दहिसर (पूर्व)",
+      "interchange": "Line 2Line 7Line 9",
+      "address": "the Western Express Highway that had not been marked for replanting by metro authorities, Mumbai"
+    },
+    {
+      "name": "Devipada",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:54:19.750354",
+      "line": "देवीपाडा",
+      "interchange": "Line 7",
+      "latitude": 19.225,
+      "longitude": 72.86416667
+    },
+    {
+      "name": "Dharavi",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:54:22.922501",
+      "line": "धारावी",
+      "interchange": "Line 3"
+    },
+    {
+      "name": "Dindoshi",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:54:24.766095",
+      "line": "दिंडोशी",
+      "interchange": "Line 7",
+      "latitude": 19.176382,
+      "longitude": 72.864891
+    },
+    {
+      "name": "D N Nagar*",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:54:28.024228",
+      "line": "डी.एन. नगर",
+      "interchange": "Line 1",
+      "latitude": 16.52189444,
+      "longitude": 79.24285
+    },
+    {
+      "name": "Eksar",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:54:32.343346",
+      "line": "एकसर",
+      "interchange": "Line 2",
+      "latitude": 26.02699,
+      "longitude": 84.53895
+    },
+    {
+      "name": "Ghatkopar#*",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:54:35.418363",
+      "line": "घाटकोपर",
+      "interchange": "Line 1",
+      "latitude": 19.08,
+      "longitude": 72.91
+    },
+    {
+      "name": "Goregaon East",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:54:39.076725",
+      "line": "गोरेगाव (पूर्व)",
+      "interchange": "Line 7",
+      "latitude": 19.155,
+      "longitude": 72.85
+    },
+    {
+      "name": "Goregaon West",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:54:42.527261",
+      "line": "गोरेगाव (पश्चिम)",
+      "interchange": "Line 2",
+      "latitude": 19.155,
+      "longitude": 72.85
+    },
+    {
+      "name": "Gundavali*",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:54:46.136923",
+      "line": "गुंदवली",
+      "interchange": "Line 7",
+      "latitude": 19.2463238,
+      "longitude": 73.0343934
+    },
+    {
+      "name": "Jagruti Nagar",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:54:49.630099",
+      "line": "जागृती नगर",
+      "interchange": "Line 1",
+      "latitude": 19.092582,
+      "longitude": 72.901866
+    },
+    {
+      "name": "Jogeshwari East",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:54:54.362202",
+      "line": "जोगेश्वरी (पूर्व)",
+      "interchange": "Line 7",
+      "latitude": 19.12,
+      "longitude": 72.85
+    },
+    {
+      "name": "Kandarpada",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:54:57.725276",
+      "line": "कांदरपाडा",
+      "interchange": "Line 2",
+      "latitude": 19.25692,
+      "longitude": 72.85051
+    },
+    {
+      "name": "Kandivli West",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:55:02.491628",
+      "line": "कांदिवली (पश्चिम)",
+      "interchange": "Line 2"
+    },
+    {
+      "name": "Kurar",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:55:04.425788",
+      "line": "कुरार",
+      "interchange": "Line 7",
+      "latitude": 19.18726,
+      "longitude": 72.85848
+    },
+    {
+      "name": "Lower Malad",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:55:08.710142",
+      "line": "लोअर मालाड",
+      "interchange": "Line 2",
+      "latitude": 19.17295,
+      "longitude": 72.83645
+    },
+    {
+      "name": "Lower Oshiwara*",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:55:13.696211",
+      "line": "लोअर ओशिवरा",
+      "interchange": "Line 2",
+      "address": "Lokhandwala Complex, Mumbai"
+    },
+    {
+      "name": "Magathane",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:55:18.238918",
+      "line": "मागाठाणे",
+      "interchange": "Line 7",
+      "latitude": 19.22041389,
+      "longitude": 72.866725
+    },
+    {
+      "name": "Malad West",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:55:22.108593",
+      "line": "मालाड (पश्चिम)",
+      "interchange": "Line 2",
+      "latitude": 19.186111,
+      "longitude": 72.848611
+    },
+    {
+      "name": "Mandapeshwar",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:55:25.898673",
+      "line": "मंडपेश्वर",
+      "interchange": "Line 2",
+      "latitude": 19.2451,
+      "longitude": 72.8537
+    },
+    {
+      "name": "Marol Naka*",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:55:29.591403",
+      "line": "मरोळ नाका",
+      "interchange": "Line 1Line 3"
+    },
+    {
+      "name": "MIDC - Andheri",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:55:34.596562",
+      "line": "एम.आय.डी.सी. - अंधेरी",
+      "interchange": "Line 3",
+      "address": "the metro corridor that were in danger of collapsing during tunneling work, Mumbai"
+    },
+    {
+      "name": "Mogra",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:55:42.382482",
+      "line": "मोगरा",
+      "interchange": "Line 7",
+      "latitude": 22.97925,
+      "longitude": 88.374769
+    },
+    {
+      "name": "Ovaripada",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:55:46.683193",
+      "line": "ओवरीपाडा",
+      "interchange": "Line 7",
+      "latitude": 19.24346,
+      "longitude": 72.8642
+    },
+    {
+      "name": "Oshiwara",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:55:50.682475",
+      "line": "ओशिवरा",
+      "interchange": "Line 2",
+      "address": "Lokhandwala Complex, Mumbai"
+    },
+    {
+      "name": "Poisar",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:55:55.410848",
+      "line": "पोईसर",
+      "interchange": "Line 7",
+      "address": "again to a subsequent generation, Mumbai"
+    },
+    {
+      "name": "Rashtriya Udyan",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:56:01.017112",
+      "line": "राष्ट्रीय उद्यान",
+      "interchange": "Line 7",
+      "latitude": 19.23466,
+      "longitude": 72.86313
+    },
+    {
+      "name": "Sahar Road",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:56:05.099045",
+      "line": "सहार रोड",
+      "interchange": "Line 3",
+      "latitude": 19.10211,
+      "longitude": 72.86481
+    },
+    {
+      "name": "Saki Naka",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:56:08.832505",
+      "line": "साकी नाका",
+      "interchange": "Line 1"
+    },
+    {
+      "name": "Santacruz††",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:56:14.075290",
+      "line": "सांताक्रुझ",
+      "interchange": "Line 3"
+    },
+    {
+      "name": "SEEPZ*",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:56:19.890346",
+      "line": "सीप्झ",
+      "interchange": "Line 3",
+      "latitude": 19.123,
+      "longitude": 72.876
+    },
+    {
+      "name": "Shimpoli",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:56:23.030115",
+      "line": "शिंपोली",
+      "interchange": "Line 2",
+      "address": "to Shimpoli road thus Borivali (East) is at a walkable distance, Mumbai"
+    },
+    {
+      "name": "Shitladevi Temple",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:56:27.397673",
+      "line": "शितलादेवी मंदिर",
+      "interchange": "Line 3",
+      "address": "the metro corridor that were in danger of collapsing during tunneling work, Mumbai"
+    },
+    {
+      "name": "Siddhivinayak Temple",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:56:34.602011",
+      "line": "सिद्धीविनायक मंदिर",
+      "interchange": "Line 3",
+      "latitude": 19.01692,
+      "longitude": 72.830409
+    },
+    {
+      "name": "Valnai - Meeth Chowky",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:56:38.274886",
+      "line": "वळनई - मीठ चौकी",
+      "interchange": "Line 2",
+      "latitude": 19.1969341,
+      "longitude": 72.8342853
+    },
+    {
+      "name": "Versova†",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:56:43.299771",
+      "line": "वर्सोवा",
+      "interchange": "Line 1",
+      "address": "its entry and exit points, Mumbai"
+    },
+    {
+      "name": "Western Express Highway*",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:56:48.489510",
+      "line": "पश्चिम द्रुतगती महामार्ग",
+      "interchange": "Line 1"
+    },
+    {
+      "name": "Worli",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:56:54.015781",
+      "line": "वरळी",
+      "interchange": "Line 3"
+    },
+    {
+      "name": "Adarsh Nagar*",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:56:57.652071",
+      "line": "आदर्श नगर",
+      "interchange": "Line 6",
+      "latitude": 17.739739,
+      "longitude": 83.227117
+    },
+    {
+      "name": "Airport Colony",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:57:00.851108",
+      "line": "विमानतळ कॉलनी",
+      "interchange": "Line 7"
+    },
+    {
+      "name": "Amar Mahal Junction",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:57:08.315960",
+      "line": "अमर महाल जंक्शन",
+      "interchange": "Line 4",
+      "address": "with three flyovers to minimize traffic disruption, Mumbai"
+    },
+    {
+      "name": "Amar Palace (Miragaon)*",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:57:14.506956",
+      "line": "अमर पॅलेस (मिरागाव)",
+      "interchange": "Line 9"
+    },
+    {
+      "name": "Anik Nagar Bus Depot",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:57:22.712458",
+      "line": "आणिक नगर बस डेपो",
+      "interchange": "Line 4"
+    },
+    {
+      "name": "Anjur Phata",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:57:29.945805",
+      "line": "अंजूर फाटा",
+      "interchange": "Line 5"
+    },
+    {
+      "name": "Badhwar Park",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:57:39.152044",
+      "line": "बधवार पार्क",
+      "interchange": "Line 3",
+      "latitude": 18.91758333,
+      "longitude": 72.82558333
+    },
+    {
+      "name": "Bale",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:57:42.407037",
+      "line": "बाळे",
+      "interchange": "Line 12"
+    },
+    {
+      "name": "Balkum Naka",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:57:47.231513",
+      "line": "बाळकुम नाका",
+      "interchange": "Line 5",
+      "address": "the Kasheli bridge crossing the Ulhas river, Mumbai"
+    },
+    {
+      "name": "Bandra††",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:57:52.596796",
+      "line": "वांद्रे",
+      "interchange": "Line 2",
+      "latitude": 19.054444,
+      "longitude": 72.840556
+    },
+    {
+      "name": "Bhakti Park (Wadala)#*",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:57:56.787948",
+      "line": "भक्ती पार्क (वडाळा)",
+      "interchange": "Line 4Line 11",
+      "latitude": 19.021632,
+      "longitude": 72.86459
+    },
+    {
+      "name": "Bhandup Mahapalika",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:58:00.883399",
+      "line": "भांडुप महापालिका",
+      "interchange": "Line 4"
+    },
+    {
+      "name": "Bhandup††",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:58:08.391839",
+      "line": "भांडुप",
+      "interchange": "Line 4",
+      "latitude": 19.14,
+      "longitude": 72.93
+    },
+    {
+      "name": "Bhiwandi",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:58:12.091369",
+      "line": "भिवंडी",
+      "interchange": "Line 5",
+      "latitude": 19.296664,
+      "longitude": 73.063121
+    },
+    {
+      "name": "BPT Hospital",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:58:16.292567",
+      "line": "बी.पी.टी. रुग्णालय",
+      "interchange": "Line 11"
+    },
+    {
+      "name": "BSNL, Govandi",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:58:23.979087",
+      "line": "बीएसएनएल, गोवंडी",
+      "interchange": "Line 2"
+    },
+    {
+      "name": "Cadbury Junction",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:58:31.860933",
+      "line": "कॅडबरी जंक्शन",
+      "interchange": "Line 4"
+    },
+    {
+      "name": "Carnac Bunder",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:58:39.941009",
+      "line": "कर्नाक बंदर",
+      "interchange": "Line 11"
+    },
+    {
+      "name": "Chembur††",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:58:47.719220",
+      "line": "चेंबूर",
+      "interchange": "Line 2",
+      "latitude": 19.051,
+      "longitude": 72.894
+    },
+    {
+      "name": "Chhatrapati Shivaji Maharaj Terminus†¤",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:58:51.450200",
+      "line": "छत्रपती शिवाजी महाराज टर्मिनस",
+      "interchange": "Line 3Line 11",
+      "latitude": 18.9398,
+      "longitude": 72.8354
+    },
+    {
+      "name": "Churchgate††",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:58:57.114633",
+      "line": "चर्चगेट",
+      "interchange": "Line 3",
+      "latitude": 18.93,
+      "longitude": 72.82
+    },
+    {
+      "name": "Clock Tower",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:59:00.672476",
+      "line": "घड्याळ टॉवर",
+      "interchange": "Line 11",
+      "address": "the centres of towns and were often the tallest structures there, Mumbai"
+    },
+    {
+      "name": "Coal Bunder",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:59:05.335667",
+      "line": "कोळसा बंदर",
+      "interchange": "Line 11"
+    },
+    {
+      "name": "Cuffe Parade†",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:59:13.359315",
+      "line": "कफ परेड",
+      "interchange": "Line 3",
+      "latitude": 18.91,
+      "longitude": 72.81
+    },
+    {
+      "name": "Darukhana",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:59:16.793386",
+      "line": "दारूखाना",
+      "interchange": "Line 11"
+    },
+    {
+      "name": "Deepak Hospital (Medtiya Nagar)",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:59:22.772609",
+      "line": "दीपक हॉस्पिटल (मेडतिया नगर)",
+      "interchange": "Line 9"
+    },
+    {
+      "name": "Dhamankar Naka",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:59:30.842938",
+      "line": "धामणकर नाका",
+      "interchange": "Line 5",
+      "address": "the Kasheli bridge crossing the Ulhas river, Mumbai"
+    },
+    {
+      "name": "Diamond Garden",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:59:36.119982",
+      "line": "डायमंड गार्डन",
+      "interchange": "Line 2"
+    },
+    {
+      "name": "Dombivali MIDC",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:59:39.964881",
+      "line": "डोंबिवली एमआयडीसी",
+      "interchange": "Line 12"
+    },
+    {
+      "name": "Hiranandani Estate (Dongripada)",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:59:47.614101",
+      "line": "हिरानंदानी इस्टेट (डोंगरीपाडा)",
+      "interchange": "Line 4"
+    },
+    {
+      "name": "Durgadi Fort",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:59:55.270849",
+      "line": "दुर्गाडी किल्ला",
+      "interchange": "Line 5",
+      "latitude": 19.2454,
+      "longitude": 73.1186
+    },
+    {
+      "name": "Eastern Express Highway",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T01:59:58.848442",
+      "line": "पूर्व द्रुतगती महामार्ग",
+      "interchange": "Line 2",
+      "address": "north to south direction and are parallel in certain sections, Mumbai"
+    },
+    {
+      "name": "ESIC Nagar",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:00:02.819061",
+      "line": "ईएसआयसी नगर",
+      "interchange": "Line 2"
+    },
+    {
+      "name": "Gaimukh†",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:00:10.588768",
+      "line": "गायमुख",
+      "interchange": "Line 4Line 10"
+    },
+    {
+      "name": "Gaimukh Reti Bandar",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:00:15.195630",
+      "line": "गायमुख रेतीबंदर",
+      "interchange": "Line 10"
+    },
+    {
+      "name": "Gandhi Nagar (Kanjurmarg)**",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:00:19.856649",
+      "line": "गांधी नगर (कांजुर मार्ग)",
+      "interchange": "Line 4"
+    },
+    {
+      "name": "Ganesh Nagar (Kalyan)",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:00:27.687641",
+      "line": "गणेश नगर (कल्याण)",
+      "interchange": "Line 12"
+    },
+    {
+      "name": "Ganesh Nagar",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:00:35.463628",
+      "line": "गणेश नगर",
+      "interchange": "Line 11"
+    },
+    {
+      "name": "Garodia Nagar",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:00:43.699696",
+      "line": "गरोडिया नगर",
+      "interchange": "Line 4"
+    },
+    {
+      "name": "Girgaon",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:00:51.273977",
+      "line": "गिरगाव",
+      "interchange": "Line 3",
+      "latitude": 18.953,
+      "longitude": 72.813
+    },
+    {
+      "name": "Godrej Company",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:00:54.961256",
+      "line": "गोदरेज कंपनी",
+      "interchange": "Line 4",
+      "address": "with its affiliated businesses, Mumbai"
+    },
+    {
+      "name": "Golavali",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:00:59.587205",
+      "line": "गोळवली",
+      "interchange": "Line 12",
+      "latitude": 17.0,
+      "longitude": 81.8
+    },
+    {
+      "name": "Gopal Nagar",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:01:05.842326",
+      "line": "गोपाळ नगर",
+      "interchange": "Line 5"
+    },
+    {
+      "name": "Govegaon MIDC",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:01:13.397036",
+      "line": "गोवेगाव एमआयडीसी",
+      "interchange": "Line 5"
+    },
+    {
+      "name": "Gowniwada",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:01:21.140414",
+      "line": "गोवनीवाडा",
+      "interchange": "Line 4",
+      "address": "the Thane-Teen Haath Naka-Kaapurbavdi-Ghodbunder Road route, Mumbai"
+    },
+    {
+      "name": "Grant Road††",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:01:29.153077",
+      "line": "ग्रँट रोड",
+      "interchange": "Line 3"
+    },
+    {
+      "name": "Hay Bunder",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:01:32.705714",
+      "line": "हे बंदर",
+      "interchange": "Line 11"
+    },
+    {
+      "name": "Hedutane",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:01:40.393720",
+      "line": "हेदुटणे",
+      "interchange": "Line 12",
+      "address": "the Thane-Teen Haath Naka-Kaapurbavdi-Ghodbunder Road route, Mumbai"
+    },
+    {
+      "name": "Hutatma Chowk",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:01:48.432400",
+      "line": "हुतात्मा चौक",
+      "interchange": "Line 3",
+      "latitude": 18.932431,
+      "longitude": 72.831502
+    },
+    {
+      "name": "IIT Powai",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:01:51.958463",
+      "line": "आयआयटी पवई",
+      "interchange": "Line 6",
+      "latitude": 19.13363611,
+      "longitude": 72.91535833
+    },
+    {
+      "name": "ILFS, BKC",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:01:56.634221",
+      "line": "आयएलएफएस, बीकेसी",
+      "interchange": "Line 2"
+    },
+    {
+      "name": "Indira Nagar (Vile Parle)",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:02:03.906046",
+      "line": "इंदिरा नगर (विलेपार्ले)",
+      "interchange": "Line 2"
+    },
+    {
+      "name": "Indralok†",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:02:07.374035",
+      "line": "इंद्रलोक",
+      "interchange": "Line 9",
+      "latitude": 19.29,
+      "longitude": 72.85
+    },
+    {
+      "name": "Jogeshwari (West)††",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:02:10.975918",
+      "line": "जोगेश्वरी (पश्चिम)",
+      "interchange": "Line 6",
+      "latitude": 19.12,
+      "longitude": 72.85
+    },
+    {
+      "name": "JVLR Junction*",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:02:14.465678",
+      "line": "जेवीएलआर जंक्शन",
+      "interchange": "Line 6Line 7",
+      "address": "the eastern end of Section 1 is one major industry located along the road, Mumbai"
+    },
+    {
+      "name": "Kalbadevi",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:02:20.158059",
+      "line": "काळबादेवी",
+      "interchange": "Line 3",
+      "latitude": 18.955,
+      "longitude": 72.835
+    },
+    {
+      "name": "Kalher",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:02:23.308288",
+      "line": "काल्हेर",
+      "interchange": "Line 5",
+      "latitude": 18.1902,
+      "longitude": 77.8453
+    },
+    {
+      "name": "Kalyan APMC†",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:02:27.109900",
+      "line": "कल्याण एपीएमसी",
+      "interchange": "Line 5Line 12",
+      "address": "the Thane-Teen Haath Naka-Kaapurbavdi-Ghodbunder Road route, Mumbai"
+    },
+    {
+      "name": "Kalyan Railway Station††",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:02:35.142896",
+      "line": "कल्याण रेल्वे स्थानक",
+      "interchange": "Line 5",
+      "latitude": 19.23525,
+      "longitude": 73.1305
+    },
+    {
+      "name": "Kanjurmarg (West)**",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:02:39.889707",
+      "line": "कांजुर मार्ग (पश्चिम)",
+      "interchange": "Line 6",
+      "address": "Gandhi Nagar in Kanjurmarg, Mumbai"
+    },
+    {
+      "name": "Kapurbawdi†*",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:02:45.214998",
+      "line": "कापूरबावडी",
+      "interchange": "Line 4Line 5"
+    },
+    {
+      "name": "Kasarvadavali",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:02:50.478277",
+      "line": "कासारवडवली",
+      "interchange": "Line 4",
+      "latitude": 19.271322,
+      "longitude": 72.96894
+    },
+    {
+      "name": "Kasheli",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:02:53.544282",
+      "line": "कशेळी",
+      "interchange": "Line 5"
+    },
+    {
+      "name": "Kashimira",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:02:57.432102",
+      "line": "काशिमिरा",
+      "interchange": "Line 10",
+      "latitude": 34.5,
+      "longitude": 76.5
+    },
+    {
+      "name": "Khira Nagar††",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:03:02.918966",
+      "line": "खिरा नगर",
+      "interchange": "Line 2"
+    },
+    {
+      "name": "Kolegaon",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:03:10.203532",
+      "line": "कोळेगाव",
+      "interchange": "Line 12",
+      "latitude": 18.3187786,
+      "longitude": 75.3957528
+    },
+    {
+      "name": "Kongaon",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:03:13.320568",
+      "line": "कोनगाव",
+      "interchange": "Line 5",
+      "address": "the Kasheli bridge crossing the Ulhas river, Mumbai"
+    },
+    {
+      "name": "Kurla (East)††",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:03:18.516064",
+      "line": "कुर्ला (पूर्व)",
+      "interchange": "Line 2",
+      "latitude": 19.07261111,
+      "longitude": 72.8845
+    },
+    {
+      "name": "Laxmi Nagar (Ghatkopar)",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:03:23.290879",
+      "line": "लक्ष्मी नगर (घाटकोपर)",
+      "interchange": "Line 4"
+    },
+    {
+      "name": "Mahakali Caves",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:03:26.710396",
+      "line": "महाकाली लेणी",
+      "interchange": "Line 6",
+      "latitude": 19.130436,
+      "longitude": 72.874133
+    },
+    {
+      "name": "Mahalaxmi††",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:03:30.488000",
+      "line": "महालक्ष्मी",
+      "interchange": "Line 3",
+      "latitude": 18.98333333,
+      "longitude": 72.8
+    },
+    {
+      "name": "Mahapalika Marg",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:03:33.863216",
+      "line": "महापालिका मार्ग",
+      "interchange": "Line 4",
+      "latitude": 18.94,
+      "longitude": 72.8353
+    },
+    {
+      "name": "Majiwada",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:03:38.131502",
+      "line": "माजिवडा",
+      "interchange": "Line 4",
+      "latitude": 19.19722222,
+      "longitude": 72.97222222
+    },
+    {
+      "name": "Mandala†",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:03:43.078653",
+      "line": "मंडळा",
+      "interchange": "Line 2",
+      "address": "the Larger Sutra and the Contemplation Sutra, Mumbai"
+    },
+    {
+      "name": "Mankhurd††",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:03:49.404307",
+      "line": "मानखुर्द",
+      "interchange": "Line 2",
+      "latitude": 19.05,
+      "longitude": 72.93
+    },
+    {
+      "name": "Manpada (Dombivali East)",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:03:53.180980",
+      "line": "मानपाडा (डोंबिवली पूर्व)",
+      "interchange": "Line 12"
+    },
+    {
+      "name": "Manpada (Thane)",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:04:01.204220",
+      "line": "मानपाडा (ठाणे)",
+      "interchange": "Line 4",
+      "latitude": 19.19722222,
+      "longitude": 72.97222222
+    },
+    {
+      "name": "MBMC Sports Complex",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:04:05.748148",
+      "line": "एमबीएमसी क्रीडा संकुल",
+      "interchange": "Line 9",
+      "address": "with Maharashtra chief minister Devendra Fadnavis, Mumbai"
+    },
+    {
+      "name": "MTNL, BKC",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:04:11.061030",
+      "line": "एमटीएनएल, बीकेसी",
+      "interchange": "Line 2"
+    },
+    {
+      "name": "Mulund Fire Station",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:04:18.870350",
+      "line": "मुलुंड अग्निशामक केंद्र",
+      "interchange": "Line 4"
+    },
+    {
+      "name": "Mulund Naka",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:04:26.768407",
+      "line": "मुलुंड नाका",
+      "interchange": "Line 4",
+      "address": "with three flyovers to minimize traffic disruption, Mumbai"
+    },
+    {
+      "name": "Jagannath Shankar Sheth Metro (Mumbai Central) ††",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:04:32.711695",
+      "line": "मुंबई सेंट्रल",
+      "interchange": "Line 3"
+    },
+    {
+      "name": "Nanavati Hospital",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:04:41.331901",
+      "line": "नानावटी रुग्णालय",
+      "interchange": "Line 2",
+      "latitude": 19.095786,
+      "longitude": 72.839986
+    },
+    {
+      "name": "National College (Bandra)",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:04:44.563020",
+      "line": "राष्ट्रीय महाविद्यालय (वांद्रे)",
+      "interchange": "Line 2"
+    },
+    {
+      "name": "Naval Housing",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:04:49.126498",
+      "line": "नौदल हाउसिंग",
+      "interchange": "Line 4",
+      "latitude": 35.42527778,
+      "longitude": 139.62888889
+    },
+    {
+      "name": "Nilaje Gaon",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:04:52.157433",
+      "line": "निळजे गाव",
+      "interchange": "Line 12"
+    },
+    {
+      "name": "Pandurang Wadi",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:04:59.421560",
+      "line": "पांडुरंग वाडी",
+      "interchange": "Line 9",
+      "address": "with Maharashtra chief minister Devendra Fadnavis, Mumbai"
+    },
+    {
+      "name": "Pant Nagar",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:05:04.533041",
+      "line": "पंत नगर",
+      "interchange": "Line 4",
+      "latitude": 19.08,
+      "longitude": 72.91
+    },
+    {
+      "name": "Pisarve Depot",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:05:08.129481",
+      "line": "पिसार्वे डेपो",
+      "interchange": "Line 12"
+    },
+    {
+      "name": "Pisarve",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:05:15.456238",
+      "line": "पिसार्वे",
+      "interchange": "Line 12"
+    },
+    {
+      "name": "Pisavali Gaon",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:05:20.341601",
+      "line": "पिसवली गाव",
+      "interchange": "Line 12"
+    },
+    {
+      "name": "Powai Lake",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:05:28.137241",
+      "line": "पवई तलाव",
+      "interchange": "Line 6",
+      "latitude": 19.13,
+      "longitude": 72.91
+    },
+    {
+      "name": "Prem Nagar",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:05:32.484195",
+      "line": "प्रेम नगर",
+      "interchange": "Line 2"
+    },
+    {
+      "name": "Purna",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:05:35.995844",
+      "line": "पूर्णा",
+      "interchange": "Line 5",
+      "latitude": 19.18,
+      "longitude": 77.05
+    },
+    {
+      "name": "Rajnouli Village",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:05:39.785052",
+      "line": "रांजणोली गाव",
+      "interchange": "Line 5"
+    },
+    {
+      "name": "Rambaug (Powai)",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:05:47.650152",
+      "line": "रामबाग (पवई)",
+      "interchange": "Line 6"
+    },
+    {
+      "name": "RTO Thane",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:05:55.478024",
+      "line": "आरटीओ ठाणे",
+      "interchange": "Line 4"
+    },
+    {
+      "name": "Sagaon",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:06:03.418950",
+      "line": "सागाव",
+      "interchange": "Line 12"
+    },
+    {
+      "name": "Sahajanand Chowk",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:06:07.641459",
+      "line": "सहजानंद चौक",
+      "interchange": "Line 5"
+    },
+    {
+      "name": "Sai Baba Nagar",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:06:15.570986",
+      "line": "साई बाबा नगर",
+      "interchange": "Line 9"
+    },
+    {
+      "name": "Saki Vihar Road",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:06:22.976692",
+      "line": "साकी विहार रोड",
+      "interchange": "Line 6",
+      "address": "the eastern end of Section 1 is one major industry located along the road, Mumbai"
+    },
+    {
+      "name": "Saraswat Nagar",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:06:28.934086",
+      "line": "सारस्वत नगर",
+      "interchange": "Line 2"
+    },
+    {
+      "name": "Science Museum",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:06:36.441089",
+      "line": "विज्ञान संग्रहालय",
+      "interchange": "Line 3",
+      "address": "Toronto, Mumbai"
+    },
+    {
+      "name": "SEEPZ Village*",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:06:41.527411",
+      "line": "सीप्झ गाव",
+      "interchange": "Line 6",
+      "latitude": 19.210206,
+      "longitude": 72.87298
+    },
+    {
+      "name": "Sewri††",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:06:44.592502",
+      "line": "शिवडी",
+      "interchange": "Line 11",
+      "latitude": 19.0,
+      "longitude": 72.86
+    },
+    {
+      "name": "SG Barve Marg",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:06:48.193338",
+      "line": "एसजी बर्वे मार्ग",
+      "interchange": "Line 2",
+      "address": "between the Santa Cruz–Chembur Link Road (SCLR) rail overbridge and another permanent structure, Mumbai"
+    },
+    {
+      "name": "Shahid Bhagat Singh Garden",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:06:54.920777",
+      "line": "शहीद भगतसिंग उद्यान",
+      "interchange": "Line 9"
+    },
+    {
+      "name": "Shangrila",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:07:02.665874",
+      "line": "शांग्रीला",
+      "interchange": "Line 4"
+    },
+    {
+      "name": "Shivaji Chowk (Chembur)",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:07:04.641865",
+      "line": "शिवाजी चौक (चेंबूर)",
+      "interchange": "Line 2"
+    },
+    {
+      "name": "Shivaji Chowk (Mira Road)†*",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:07:11.939852",
+      "line": "शिवाजी चौक (मिरा रोड)",
+      "interchange": "Line 10Line 13[b]",
+      "address": "with Maharashtra chief minister Devendra Fadnavis, Mumbai"
+    },
+    {
+      "name": "Shreyas Cinema",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:07:17.044787",
+      "line": "श्रेयस सिनेमा",
+      "interchange": "Line 4",
+      "address": "with Golmaal Returns and Sangeeth Sivan's horror flick, Mumbai"
+    },
+    {
+      "name": "Shyam Nagar (Mumbai)",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:07:22.791829",
+      "line": "श्याम नगर",
+      "interchange": "Line 6"
+    },
+    {
+      "name": "Siddharth Colony",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:07:30.324263",
+      "line": "सिद्धार्थ कॉलनी",
+      "interchange": "Line 4",
+      "address": "with three flyovers to minimize traffic disruption, Mumbai"
+    },
+    {
+      "name": "Sonapur",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:07:36.583903",
+      "line": "सोनापूर",
+      "interchange": "Line 4",
+      "latitude": 17.67027778,
+      "longitude": 75.90111111
+    },
+    {
+      "name": "Sonarpada",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:07:41.683571",
+      "line": "सोनारपाडा",
+      "interchange": "Line 12",
+      "address": "the Thane-Teen Haath Naka-Kaapurbavdi-Ghodbunder Road route, Mumbai"
+    },
+    {
+      "name": "Subhash Chandra Bose Stadium†",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:07:49.628383",
+      "line": "सुभाषचंद्र बोस स्टेडियम",
+      "interchange": "Line 9",
+      "address": "with Maharashtra chief minister Devendra Fadnavis, Mumbai"
+    },
+    {
+      "name": "Suman Nagar",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:07:54.679762",
+      "line": "सुमन नगर",
+      "interchange": "Line 4"
+    },
+    {
+      "name": "Surya Nagar",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:08:02.404167",
+      "line": "सूर्य नगर",
+      "interchange": "Line 4"
+    },
+    {
+      "name": "Swami Samarth Nagar (Lokhandwala)†",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:08:09.727156",
+      "line": "स्वामी समर्थ नगर (लोखंडवाला)",
+      "interchange": "Line 6",
+      "address": "Gandhi Nagar in Kanjurmarg, Mumbai"
+    },
+    {
+      "name": "Taloja†*",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:08:15.266860",
+      "line": "तळोजा",
+      "interchange": "Line 12",
+      "latitude": 19.0833,
+      "longitude": 73.0833
+    },
+    {
+      "name": "Teen Haath Naka (Thane)",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:08:18.704019",
+      "line": "तीन हात नाका (ठाणे)",
+      "interchange": "Line 4"
+    },
+    {
+      "name": "Temghar",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:08:26.511768",
+      "line": "टेमघर",
+      "interchange": "Line 5",
+      "address": "with the patriarch of Jerusalem, Mumbai"
+    },
+    {
+      "name": "Tikuji-ni-wadi",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:08:34.694627",
+      "line": "टिकुजीनीवाडी",
+      "interchange": "Line 4",
+      "latitude": 19.237,
+      "longitude": 72.9695
+    },
+    {
+      "name": "Turbhe",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:08:37.668988",
+      "line": "तुर्भे",
+      "interchange": "Line 12",
+      "latitude": 19.4,
+      "longitude": 73.1
+    },
+    {
+      "name": "Vadavali",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:08:41.310392",
+      "line": "वडवली",
+      "interchange": "Line 12",
+      "latitude": 19.271322,
+      "longitude": 72.96894
+    },
+    {
+      "name": "Waklan",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:08:44.815759",
+      "line": "वाकळण",
+      "interchange": "Line 12"
+    },
+    {
+      "name": "Varsova Char Phata",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:08:48.313955",
+      "line": "वर्सोवा चार फाटा",
+      "interchange": "Line 10"
+    },
+    {
+      "name": "Vidhan Bhavan",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:08:53.011077",
+      "line": "विधान भवन",
+      "interchange": "Line 3"
+    },
+    {
+      "name": "Vijay Garden",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:08:56.425269",
+      "line": "विजय गार्डन",
+      "interchange": "Line 4"
+    },
+    {
+      "name": "Vikhroli EEH†",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:09:04.024582",
+      "line": "विक्रोळी इ.इ.एच.",
+      "interchange": "Line 6Line 14[c]",
+      "address": "the eastern end of Section 1 is one major industry located along the road, Mumbai"
+    },
+    {
+      "name": "Vikhroli††",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:09:09.723021",
+      "line": "विक्रोळी",
+      "interchange": "Line 4",
+      "latitude": 19.11,
+      "longitude": 72.94
+    },
+    {
+      "name": "Wadala Truck Terminal",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:09:13.088032",
+      "line": "वडाळा ट्रक टर्मिनल",
+      "interchange": "Line 4",
+      "latitude": 19.021632,
+      "longitude": 72.86459
+    },
+    {
+      "name": "Wadi Bunder",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:09:17.103750",
+      "line": "वाडी बंदर",
+      "interchange": "Line 11"
+    },
+    {
+      "name": "Kashigaon",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:09:24.754667",
+      "line": "काशिगाव",
+      "interchange": "Line 9",
+      "latitude": 19.27139,
+      "longitude": 72.890843
+    },
+    {
+      "name": "1",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:09:39.269515",
+      "line": "Chembur",
+      "interchange": "चेंबूर",
+      "address": "algebraic group over a global number field, Mumbai"
+    },
+    {
+      "name": "2",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:09:46.193744",
+      "line": "VNP and RC Marg Junction",
+      "interchange": "व्हीएनपी आणि आरसी मार्ग जंक्शन"
+    },
+    {
+      "name": "3",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:09:52.044702",
+      "line": "Fertiliser Township",
+      "interchange": "फर्टीलाइझर टाउनशिप",
+      "address": "UPC-A barcodes and standard 52-card decks, Mumbai"
+    },
+    {
+      "name": "4",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:09:58.254746",
+      "line": "Bharat Petroleum",
+      "interchange": "भारत पेट्रोलियम"
+    },
+    {
+      "name": "5",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:10:04.235528",
+      "line": "Mysore Colony",
+      "interchange": "मैसूर कॉलनी",
+      "address": "with 4 and 6, Mumbai"
+    },
+    {
+      "name": "6",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:10:10.360557",
+      "line": "Bhakti Park",
+      "interchange": "भक्ती पार्क"
+    },
+    {
+      "name": "7",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:10:16.530827",
+      "line": "Wadala Depot",
+      "interchange": "वडाळा डेपो"
+    },
+    {
+      "name": "8",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:10:22.273839",
+      "line": "Guru Tegh Bahadur Nagar",
+      "interchange": "गुरू तेग बहादुर नगर",
+      "address": "Finnic *kakte-ksa, Mumbai"
+    },
+    {
+      "name": "9",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:10:28.463972",
+      "line": "Antop Hill",
+      "interchange": "अँटॉप हिल"
+    },
+    {
+      "name": "10",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:10:35.016935",
+      "line": "Acharya Atre Nagar",
+      "interchange": "आचार्य अत्रे नगर",
+      "address": "algebraic group over a global number field, Mumbai"
+    },
+    {
+      "name": "11",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:10:42.034225",
+      "line": "Wadala Bridge",
+      "interchange": "वडाळा ब्रिज",
+      "address": "algebraic group over a global number field, Mumbai"
+    },
+    {
+      "name": "12",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:10:48.748158",
+      "line": "Dadar (East)",
+      "interchange": "दादर (पूर्व)",
+      "address": "algebraic group over a global number field, Mumbai"
+    },
+    {
+      "name": "13",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:10:55.675963",
+      "line": "Naigaon",
+      "interchange": "नायगाव",
+      "address": "algebraic group over a global number field, Mumbai"
+    },
+    {
+      "name": "14",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:11:02.298448",
+      "line": "Ambedkar Nagar",
+      "interchange": "आंबेडकर नगर",
+      "address": "algebraic group over a global number field, Mumbai"
+    },
+    {
+      "name": "15",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:11:08.744512",
+      "line": "Mint Colony",
+      "interchange": "मिंट कॉलनी",
+      "address": "algebraic group over a global number field, Mumbai"
+    },
+    {
+      "name": "16",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:11:15.495811",
+      "line": "Lower Parel",
+      "interchange": "लोअर परळ"
+    },
+    {
+      "name": "17",
+      "category": "metro_station",
+      "source": "wikipedia",
+      "scrape_time": "2025-05-24T02:11:21.308767",
+      "line": "Sant Gadge Maharaj Chowk",
+      "interchange": "संत गाडगे महाराज चौक"
+    }
+  ]
+}

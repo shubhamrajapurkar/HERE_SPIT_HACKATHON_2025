@@ -1,0 +1,62 @@
+2025-05-23 23:31:33,244 - JustDialScraper - INFO - Scraping JustDial for restaurant in Mumbai
+2025-05-23 23:31:37,689 - JustDialScraper - INFO - Scraping JustDial for shop in Mumbai
+2025-05-23 23:31:42,571 - JustDialScraper - INFO - Scraping JustDial for mall in Mumbai
+2025-05-23 23:31:47,085 - JustDialScraper - INFO - Scraping JustDial for office in Mumbai
+2025-05-23 23:31:51,608 - JustDialScraper - INFO - Scraping JustDial for hospital in Mumbai
+2025-05-23 23:31:56,066 - JustDialScraper - INFO - Scraping JustDial for school in Mumbai
+2025-05-23 23:32:00,211 - JustDialScraper - INFO - Scraping JustDial for hotel in Mumbai
+2025-05-23 23:32:04,413 - JustDialScraper - INFO - Scraping JustDial for bank in Mumbai
+2025-05-23 23:32:08,719 - JustDialScraper - INFO - Scraping JustDial for atm in Mumbai
+2025-05-23 23:32:12,885 - JustDialScraper - INFO - Scraping JustDial for gas station in Mumbai
+2025-05-23 23:32:17,009 - JustDialScraper - INFO - Scraping JustDial for pharmacy in Mumbai
+2025-05-23 23:32:21,715 - JustDialScraper - INFO - Scraping JustDial for gym in Mumbai
+2025-05-23 23:32:26,233 - utils.data_handler - INFO - Saved 131 records to data/justdial_data.json
+2025-05-23 23:32:26,236 - WikipediaScraper - INFO - Searching Wikipedia for: Mumbai landmarks
+2025-05-23 23:32:31,379 - WikipediaScraper - WARNING - Error extracting from article List of tourist attractions in Mumbai: 'coordinates'
+2025-05-23 23:32:54,616 - WikipediaScraper - WARNING - Error extracting from article Attribution of the 2008 Mumbai attacks: 'coordinates'
+2025-05-23 23:32:58,302 - WikipediaScraper - WARNING - Error extracting from article Shapoorji Pallonji Group: 'coordinates'
+2025-05-23 23:33:02,943 - WikipediaScraper - WARNING - Error extracting from article List of Mumbai Metro stations: 'coordinates'
+2025-05-23 23:33:07,622 - WikipediaScraper - WARNING - Error extracting from article Mumbai-Pune-Mumbai: 'coordinates'
+2025-05-23 23:33:12,460 - WikipediaScraper - WARNING - Error extracting from article Shivaji: 'coordinates'
+2025-05-23 23:33:12,461 - WikipediaScraper - INFO - Searching Wikipedia for: Mumbai buildings
+2025-05-23 23:33:17,142 - WikipediaScraper - WARNING - Error extracting from article List of tallest buildings in Mumbai: 'coordinates'
+2025-05-23 23:33:21,239 - WikipediaScraper - WARNING - Error extracting from article List of tallest buildings in India: 'coordinates'
+2025-05-23 23:33:24,917 - WikipediaScraper - WARNING - Error extracting from article Municipal Corporation Building, Mumbai: 'coordinates'
+2025-05-23 23:33:33,121 - WikipediaScraper - WARNING - Error extracting from article Mumbai Saga: 'coordinates'
+2025-05-23 23:33:39,996 - WikipediaScraper - WARNING - Error extracting from article List of tallest buildings in Navi Mumbai: 'coordinates'
+2025-05-23 23:33:47,809 - WikipediaScraper - WARNING - Error extracting from article Architecture of Mumbai: 'coordinates'
+2025-05-23 23:33:51,973 - WikipediaScraper - INFO - Searching Wikipedia for: Mumbai shopping
+2025-05-23 23:33:57,388 - WikipediaScraper - WARNING - Error extracting from article Phoenix Marketcity (Mumbai): 'coordinates'
+2025-05-23 23:34:01,282 - WikipediaScraper - WARNING - Error extracting from article List of shopping malls in India: 'coordinates'
+2025-05-23 23:34:05,176 - WikipediaScraper - WARNING - Error extracting from article Crossroads Mall (Mumbai): 'coordinates'
+2025-05-23 23:34:13,501 - WikipediaScraper - WARNING - Error extracting from article Linking Road, Mumbai: 'coordinates'
+2025-05-23 23:34:28,831 - WikipediaScraper - WARNING - Error extracting from article Mumbai-Pune-Mumbai: 'coordinates'
+2025-05-23 23:34:33,314 - WikipediaScraper - INFO - Searching Wikipedia for: Mumbai restaurants
+2025-05-23 23:34:38,939 - WikipediaScraper - WARNING - Error extracting from article Street food of Mumbai: 'coordinates'
+2025-05-23 23:34:41,965 - WikipediaScraper - WARNING - Error extracting from article Phoenix Marketcity (Mumbai): 'coordinates'
+2025-05-23 23:34:59,062 - WikipediaScraper - WARNING - Error extracting from article Speciality Restaurants Limited: 'coordinates'
+2025-05-23 23:35:11,117 - WikipediaScraper - WARNING - Error extracting from article Rahul Akerkar: 'coordinates'
+2025-05-23 23:35:14,171 - WikipediaScraper - INFO - Searching Wikipedia for: List of places in Mumbai
+2025-05-23 23:35:17,978 - WikipediaScraper - WARNING - Error extracting from article List of tourist attractions in Mumbai: 'coordinates'
+2025-05-23 23:35:20,505 - WikipediaScraper - WARNING - Error extracting from article List of tallest buildings in Mumbai: 'coordinates'
+2025-05-23 23:35:24,225 - WikipediaScraper - WARNING - Error extracting from article List of churches in Mumbai: 'coordinates'
+2025-05-23 23:35:28,776 - WikipediaScraper - WARNING - Error extracting from article List of forts in Mumbai: 'coordinates'
+2025-05-23 23:35:31,599 - WikipediaScraper - WARNING - Error extracting from article List of Mumbai Metro stations: 'coordinates'
+2025-05-23 23:35:35,898 - WikipediaScraper - WARNING - Error extracting from article List of people from Mumbai: 'coordinates'
+2025-05-23 23:35:39,282 - WikipediaScraper - WARNING - Error extracting from article List of mayors of Mumbai: 'coordinates'
+2025-05-23 23:35:43,472 - WikipediaScraper - WARNING - Error extracting from article Terrorism in India: 'coordinates'
+2025-05-23 23:35:50,602 - WikipediaScraper - WARNING - Error extracting from article Chennai Super Kings–Mumbai Indians cricket rivalry: 'coordinates'
+2025-05-23 23:35:50,607 - OpenStreetMapScraper - INFO - Scraping OpenStreetMap for POIs in Mumbai
+2025-05-23 23:35:58,422 - OpenStreetMapScraper - ERROR - Overpass query error: Error: line 4: parse error: Value expected - '*' found. 
+Error: line 4: parse error: ']' expected - '*' found. 
+Error: line 5: parse error: Value expected - '*' found. 
+Error: line 5: parse error: ']' expected - '*' found. 
+Error: line 6: parse error: Value expected - '*' found. 
+Error: line 6: parse error: ']' expected - '*' found. 
+2025-05-23 23:36:02,334 - OpenStreetMapScraper - ERROR - Overpass query error: Error: line 4: parse error: Value expected - '*' found. 
+Error: line 4: parse error: ']' expected - '*' found. 
+Error: line 5: parse error: Value expected - '*' found. 
+Error: line 5: parse error: ']' expected - '*' found. 
+Error: line 6: parse error: Value expected - '*' found. 
+Error: line 6: parse error: ']' expected - '*' found. 
+2025-05-23 23:36:30,024 - utils.data_handler - INFO - Saved 1336 records to data/osm_data.json
